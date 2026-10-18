@@ -3,128 +3,134 @@
   <channel id="espn.premium">
     <display-name>ESPN Premium</display-name>
   </channel>
-  <programme start="20261018000000 -0500" stop="20261018020000 -0500" channel="espn.premium">
+  <programme start="20261017223000 -0500" stop="20261018003000 -0500" channel="espn.premium">
     <title>Automovilismo Fórmula 1</title>
   </programme>
-  <programme start="20261018020000 -0500" stop="20261018040000 -0500" channel="espn.premium">
-    <title>Telstar vs. Feyenoord Fútbol Eredivisie</title>
+  <programme start="20261018003000 -0500" stop="20261018010000 -0500" channel="espn.premium">
+    <title>El Show de la Copa Libertadores</title>
   </programme>
-  <programme start="20261018040000 -0500" stop="20261018050000 -0500" channel="espn.premium">
-    <title>Fútbol Turco Superliga</title>
+  <programme start="20261018010000 -0500" stop="20261018030000 -0500" channel="espn.premium">
+    <title>Schalke 04 vs. Mainz Fútbol: Bundesliga</title>
+  </programme>
+  <programme start="20261018030000 -0500" stop="20261018050000 -0500" channel="espn.premium">
+    <title>ESPN Premium Chile</title>
   </programme>
   <programme start="20261018050000 -0500" stop="20261018060000 -0500" channel="espn.premium">
-    <title>ESPN Premium Chile</title>
+    <title>Campeonato Mundial de Superbikes FIM</title>
   </programme>
   <programme start="20261018060000 -0500" stop="20261018080000 -0500" channel="espn.premium">
-    <title>Watford vs. Charlton Athletic Fútbol EFL Championship</title>
+    <title>Automovilismo Fórmula 1</title>
   </programme>
-  <programme start="20261018080000 -0500" stop="20261018083000 -0500" channel="espn.premium">
-    <title>El Show de la Copa Libertadores</title>
+  <programme start="20261018080000 -0500" stop="20261018100000 -0500" channel="espn.premium">
+    <title>Telstar vs. Feyenoord Fútbol Eredivisie</title>
   </programme>
-  <programme start="20261018083000 -0500" stop="20261018090000 -0500" channel="espn.premium">
-    <title>UEFA Champions League Weekly</title>
-  </programme>
-  <programme start="20261018090000 -0500" stop="20261018110000 -0500" channel="espn.premium">
-    <title>ESPN Premium Chile</title>
+  <programme start="20261018100000 -0500" stop="20261018110000 -0500" channel="espn.premium">
+    <title>Fútbol Turco Superliga</title>
   </programme>
   <programme start="20261018110000 -0500" stop="20261018120000 -0500" channel="espn.premium">
-    <title>ESPN Compact</title>
+    <title>ESPN Premium Chile</title>
   </programme>
-  <programme start="20261018120000 -0500" stop="20261018123000 -0500" channel="espn.premium">
+  <programme start="20261018120000 -0500" stop="20261018140000 -0500" channel="espn.premium">
+    <title>Watford vs. Charlton Athletic Fútbol EFL Championship</title>
+  </programme>
+  <programme start="20261018140000 -0500" stop="20261018143000 -0500" channel="espn.premium">
     <title>El Show de la Copa Libertadores</title>
   </programme>
-  <programme start="20261018123000 -0500" stop="20261018130000 -0500" channel="espn.premium">
+  <programme start="20261018143000 -0500" stop="20261018150000 -0500" channel="espn.premium">
     <title>UEFA Champions League Weekly</title>
   </programme>
-  <programme start="20261018130000 -0500" stop="20261018150000 -0500" channel="espn.premium">
+  <programme start="20261018150000 -0500" stop="20261018170000 -0500" channel="espn.premium">
     <title>ESPN Premium Chile</title>
   </programme>
-  <programme start="20261018150000 -0500" stop="20261018170000 -0500" channel="espn.premium">
+  <programme start="20261018170000 -0500" stop="20261018180000 -0500" channel="espn.premium">
+    <title>ESPN Compact</title>
+  </programme>
+  <programme start="20261018180000 -0500" stop="20261018183000 -0500" channel="espn.premium">
+    <title>El Show de la Copa Libertadores</title>
+  </programme>
+  <programme start="20261018183000 -0500" stop="20261018190000 -0500" channel="espn.premium">
+    <title>UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20261018190000 -0500" stop="20261018210000 -0500" channel="espn.premium">
+    <title>ESPN Premium Chile</title>
+  </programme>
+  <programme start="20261018210000 -0500" stop="20261018230000 -0500" channel="espn.premium">
     <title>Fútbol Conmebol Copa Libertadores</title>
   </programme>
-  <programme start="20261018170000 -0500" stop="20261018190000 -0500" channel="espn.premium">
+  <programme start="20261018230000 -0500" stop="20261019010000 -0500" channel="espn.premium">
     <title>ESPN Premium Chile</title>
-  </programme>
-  <programme start="20261018190000 -0500" stop="20261018200000 -0500" channel="espn.premium">
-    <title>ESPN Compact</title>
-  </programme>
-  <programme start="20261018200000 -0500" stop="20261018210000 -0500" channel="espn.premium">
-    <title>ESPN Compact</title>
-  </programme>
-  <programme start="20261018210000 -0500" stop="20261018220000 -0500" channel="espn.premium">
-    <title>ESPN Premium Chile</title>
-  </programme>
-  <programme start="20261018220000 -0500" stop="20261019000000 -0500" channel="espn.premium">
-    <title>Automovilismo Fórmula 1</title>
   </programme>
   <channel id="teleamazonas">
     <display-name>Teleamazonas</display-name>
   </channel>
-  <programme start="20261017230000 -0500" stop="20261018010000 -0500" channel="teleamazonas">
-    <title>Megalodón 2: El Gran Abismo Un equipo de investigación se ve obligado a una batalla por la supervivencia cuando una malevolente operación minera amenaza su misión de exploración.</title>
+  <programme start="20261018000000 -0500" stop="20261018003000 -0500" channel="teleamazonas">
+    <title>Los Simpson Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</title>
   </programme>
-  <programme start="20261018010000 -0500" stop="20261018021500 -0500" channel="teleamazonas">
-    <title>Aída</title>
+  <programme start="20261018003000 -0500" stop="20261018020000 -0500" channel="teleamazonas">
+    <title>La era de hielo</title>
   </programme>
-  <programme start="20261018021500 -0500" stop="20261018030000 -0500" channel="teleamazonas">
+  <programme start="20261018020000 -0500" stop="20261018030500 -0500" channel="teleamazonas">
     <title>24 Horas</title>
   </programme>
-  <programme start="20261018030000 -0500" stop="20261018034500 -0500" channel="teleamazonas">
+  <programme start="20261018030500 -0500" stop="20261018040500 -0500" channel="teleamazonas">
+    <title>De año en año</title>
+  </programme>
+  <programme start="20261018040500 -0500" stop="20261018050000 -0500" channel="teleamazonas">
     <title>América Vive</title>
   </programme>
-  <programme start="20261018034500 -0500" stop="20261018050000 -0500" channel="teleamazonas">
+  <programme start="20261018050000 -0500" stop="20261018070000 -0500" channel="teleamazonas">
+    <title>Megalodón 2: El Gran Abismo Un equipo de investigación se ve obligado a una batalla por la supervivencia cuando una malevolente operación minera amenaza su misión de exploración.</title>
+  </programme>
+  <programme start="20261018070000 -0500" stop="20261018081500 -0500" channel="teleamazonas">
+    <title>Aída</title>
+  </programme>
+  <programme start="20261018081500 -0500" stop="20261018090000 -0500" channel="teleamazonas">
+    <title>24 Horas</title>
+  </programme>
+  <programme start="20261018090000 -0500" stop="20261018094500 -0500" channel="teleamazonas">
+    <title>América Vive</title>
+  </programme>
+  <programme start="20261018094500 -0500" stop="20261018110000 -0500" channel="teleamazonas">
     <title>Geeks</title>
   </programme>
-  <programme start="20261018050000 -0500" stop="20261018053000 -0500" channel="teleamazonas">
+  <programme start="20261018110000 -0500" stop="20261018113000 -0500" channel="teleamazonas">
     <title>Tres Patines</title>
   </programme>
-  <programme start="20261018053000 -0500" stop="20261018060000 -0500" channel="teleamazonas">
+  <programme start="20261018113000 -0500" stop="20261018120000 -0500" channel="teleamazonas">
     <title>La Cocina del Chef</title>
   </programme>
-  <programme start="20261018060000 -0500" stop="20261018065000 -0500" channel="teleamazonas">
+  <programme start="20261018120000 -0500" stop="20261018125000 -0500" channel="teleamazonas">
     <title>Documentales de Animales</title>
   </programme>
-  <programme start="20261018065000 -0500" stop="20261018073000 -0500" channel="teleamazonas">
+  <programme start="20261018125000 -0500" stop="20261018133000 -0500" channel="teleamazonas">
     <title>Misa dominical</title>
   </programme>
-  <programme start="20261018073000 -0500" stop="20261018080000 -0500" channel="teleamazonas">
+  <programme start="20261018133000 -0500" stop="20261018140000 -0500" channel="teleamazonas">
     <title>Sinfonía de Motores</title>
   </programme>
-  <programme start="20261018080000 -0500" stop="20261018100000 -0500" channel="teleamazonas">
+  <programme start="20261018140000 -0500" stop="20261018160000 -0500" channel="teleamazonas">
     <title>Tventas</title>
   </programme>
-  <programme start="20261018100000 -0500" stop="20261018103000 -0500" channel="teleamazonas">
+  <programme start="20261018160000 -0500" stop="20261018163000 -0500" channel="teleamazonas">
     <title>Salud 360</title>
   </programme>
-  <programme start="20261018103000 -0500" stop="20261018123000 -0500" channel="teleamazonas">
+  <programme start="20261018163000 -0500" stop="20261018183000 -0500" channel="teleamazonas">
     <title>Yo soy Betty, la fea</title>
   </programme>
-  <programme start="20261018123000 -0500" stop="20261018130000 -0500" channel="teleamazonas">
+  <programme start="20261018183000 -0500" stop="20261018190000 -0500" channel="teleamazonas">
     <title>El Chavo del Ocho Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</title>
   </programme>
-  <programme start="20261018130000 -0500" stop="20261018140000 -0500" channel="teleamazonas">
+  <programme start="20261018190000 -0500" stop="20261018200000 -0500" channel="teleamazonas">
     <title>24 Horas</title>
   </programme>
-  <programme start="20261018140000 -0500" stop="20261018150000 -0500" channel="teleamazonas">
+  <programme start="20261018200000 -0500" stop="20261018210000 -0500" channel="teleamazonas">
     <title>Documentales de Animales</title>
   </programme>
-  <programme start="20261018150000 -0500" stop="20261018164500 -0500" channel="teleamazonas">
+  <programme start="20261018210000 -0500" stop="20261018224500 -0500" channel="teleamazonas">
     <title>Dora y la Ciudad Perdida Dora, Diego, Boots y un grupo de amigos se aventuran para salvar a los padres de Dora y resolver el misterio detrás de una ciudad de oro perdida.</title>
   </programme>
-  <programme start="20261018164500 -0500" stop="20261018181500 -0500" channel="teleamazonas">
+  <programme start="20261018224500 -0500" stop="20261019001500 -0500" channel="teleamazonas">
     <title>Lego Ninjago la película</title>
-  </programme>
-  <programme start="20261018181500 -0500" stop="20261018200000 -0500" channel="teleamazonas">
-    <title>The Super Mario Bros. Movie</title>
-  </programme>
-  <programme start="20261018200000 -0500" stop="20261018210500 -0500" channel="teleamazonas">
-    <title>24 Horas</title>
-  </programme>
-  <programme start="20261018210500 -0500" stop="20261018220500 -0500" channel="teleamazonas">
-    <title>Día a día</title>
-  </programme>
-  <programme start="20261018220500 -0500" stop="20261019001500 -0500" channel="teleamazonas">
-    <title>Batman vs Superman</title>
   </programme>
   <channel id="gamavision.ec">
     <display-name>Gamavisión</display-name>
