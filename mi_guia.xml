@@ -3,143 +3,146 @@
   <channel id="espn.premium">
     <display-name>ESPN Premium</display-name>
   </channel>
-  <programme start="20261021000000 -0500" stop="20261021020000 -0500" channel="espn.premium">
-    <title>Vasco da Gama vs. Boca Juniors Fútbol Conmebol Copa Sudamericana</title>
+  <programme start="20261020230000 -0500" stop="20261021010000 -0500" channel="espn.premium">
+    <title>Palmeiras vs. Fluminense Fútbol Conmebol Copa Libertadores</title>
   </programme>
-  <programme start="20261021020000 -0500" stop="20261021030000 -0500" channel="espn.premium">
-    <title>NFL Semanal</title>
+  <programme start="20261021010000 -0500" stop="20261021030000 -0500" channel="espn.premium">
+    <title>Atlético Mineiro vs. Montevideo City Torque Fútbol Conmebol Copa Sudamericana</title>
   </programme>
   <programme start="20261021030000 -0500" stop="20261021050000 -0500" channel="espn.premium">
+    <title>Vasco da Gama vs. Boca Juniors Fútbol Conmebol Copa Sudamericana</title>
+  </programme>
+  <programme start="20261021050000 -0500" stop="20261021060000 -0500" channel="espn.premium">
+    <title>NFL Semanal</title>
+  </programme>
+  <programme start="20261021060000 -0500" stop="20261021080000 -0500" channel="espn.premium">
     <title>Automovilismo Fórmula 1</title>
   </programme>
-  <programme start="20261021050000 -0500" stop="20261021070000 -0500" channel="espn.premium">
+  <programme start="20261021080000 -0500" stop="20261021100000 -0500" channel="espn.premium">
     <title>Palmeiras vs. Fluminense Fútbol Conmebol Copa Libertadores</title>
   </programme>
-  <programme start="20261021070000 -0500" stop="20261021090000 -0500" channel="espn.premium">
+  <programme start="20261021100000 -0500" stop="20261021120000 -0500" channel="espn.premium">
     <title>Vasco da Gama vs. Boca Juniors Fútbol Conmebol Copa Sudamericana</title>
   </programme>
-  <programme start="20261021090000 -0500" stop="20261021093000 -0500" channel="espn.premium">
+  <programme start="20261021120000 -0500" stop="20261021123000 -0500" channel="espn.premium">
     <title>El Show de la Copa Libertadores</title>
   </programme>
-  <programme start="20261021093000 -0500" stop="20261021114000 -0500" channel="espn.premium">
+  <programme start="20261021123000 -0500" stop="20261021144000 -0500" channel="espn.premium">
     <title>Como vs. Manchester United Fútbol UEFA Champions League</title>
   </programme>
-  <programme start="20261021114000 -0500" stop="20261021135500 -0500" channel="espn.premium">
+  <programme start="20261021144000 -0500" stop="20261021165500 -0500" channel="espn.premium">
     <title>Real Madrid vs. RB Leipzig Fútbol UEFA Champions League</title>
   </programme>
-  <programme start="20261021135500 -0500" stop="20261021145500 -0500" channel="espn.premium">
+  <programme start="20261021165500 -0500" stop="20261021175500 -0500" channel="espn.premium">
     <title>UEFA Europa &amp; Conference League Magazine</title>
   </programme>
-  <programme start="20261021145500 -0500" stop="20261021150000 -0500" channel="espn.premium">
+  <programme start="20261021175500 -0500" stop="20261021180000 -0500" channel="espn.premium">
     <title>Futbol</title>
   </programme>
-  <programme start="20261021150000 -0500" stop="20261021170000 -0500" channel="espn.premium">
+  <programme start="20261021180000 -0500" stop="20261021200000 -0500" channel="espn.premium">
     <title>Vasco da Gama vs. Boca Juniors Fútbol Conmebol Copa Sudamericana</title>
   </programme>
-  <programme start="20261021170000 -0500" stop="20261021193000 -0500" channel="espn.premium">
+  <programme start="20261021200000 -0500" stop="20261021223000 -0500" channel="espn.premium">
     <title>Palmeiras vs. Fluminense Fútbol Conmebol Copa Libertadores</title>
   </programme>
-  <programme start="20261021193000 -0500" stop="20261021213000 -0500" channel="espn.premium">
+  <programme start="20261021223000 -0500" stop="20261022003000 -0500" channel="espn.premium">
     <title>Montevideo City Torque vs. Atlético Mineiro Fútbol Conmebol Copa Sudamericana</title>
-  </programme>
-  <programme start="20261021213000 -0500" stop="20261021220000 -0500" channel="espn.premium">
-    <title>Bundesliga Preview Show</title>
-  </programme>
-  <programme start="20261021220000 -0500" stop="20261022000000 -0500" channel="espn.premium">
-    <title>Palmeiras vs. Fluminense Fútbol Conmebol Copa Libertadores</title>
   </programme>
   <channel id="teleamazonas">
     <display-name>Teleamazonas</display-name>
   </channel>
-  <programme start="20261021000000 -0500" stop="20261021004500 -0500" channel="teleamazonas">
-    <title>C.S.I. Investigadores buscan las verdades de los asesinatos en la ciudad de Las Vegas demostrando a los criminales que salirse con la suya es mucho más difícil.</title>
-  </programme>
-  <programme start="20261021004500 -0500" stop="20261021010000 -0500" channel="teleamazonas">
-    <title>24 horas - Nacional I</title>
-  </programme>
-  <programme start="20261021010000 -0500" stop="20261021011500 -0500" channel="teleamazonas">
-    <title>Entrevistas en 24 horas</title>
-  </programme>
-  <programme start="20261021011500 -0500" stop="20261021014500 -0500" channel="teleamazonas">
-    <title>Yo soy tu madre</title>
-  </programme>
-  <programme start="20261021014500 -0500" stop="20261021020000 -0500" channel="teleamazonas">
-    <title>La Familia Peluche</title>
-  </programme>
-  <programme start="20261021020000 -0500" stop="20261021021500 -0500" channel="teleamazonas">
-    <title>Derbez en cuando</title>
-  </programme>
-  <programme start="20261021021500 -0500" stop="20261021024500 -0500" channel="teleamazonas">
-    <title>El Chapulín Colorado Una serie creada por Roberto Gómez Bolaños que relata las aventuras de un Superhéroe, reconocido por su Chipote Chillón y sus divertidas frases.</title>
-  </programme>
-  <programme start="20261021024500 -0500" stop="20261021030000 -0500" channel="teleamazonas">
-    <title>El Chavo del Ocho Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</title>
-  </programme>
-  <programme start="20261021030000 -0500" stop="20261021034500 -0500" channel="teleamazonas">
-    <title>24 horas - 3ra emisión</title>
-  </programme>
-  <programme start="20261021034500 -0500" stop="20261021050000 -0500" channel="teleamazonas">
-    <title>24 horas - 1ra emisión local</title>
-  </programme>
-  <programme start="20261021050000 -0500" stop="20261021053000 -0500" channel="teleamazonas">
-    <title>24 horas - Nacional I</title>
-  </programme>
-  <programme start="20261021053000 -0500" stop="20261021060000 -0500" channel="teleamazonas">
-    <title>Entrevistas en 24 horas</title>
-  </programme>
-  <programme start="20261021060000 -0500" stop="20261021073000 -0500" channel="teleamazonas">
-    <title>24 horas - 2da emisión local</title>
-  </programme>
-  <programme start="20261021073000 -0500" stop="20261021100000 -0500" channel="teleamazonas">
-    <title>EsTAmañana</title>
-  </programme>
-  <programme start="20261021100000 -0500" stop="20261021110000 -0500" channel="teleamazonas">
-    <title>Por amar sin ley</title>
-  </programme>
-  <programme start="20261021110000 -0500" stop="20261021120000 -0500" channel="teleamazonas">
-    <title>24 Horas</title>
-  </programme>
-  <programme start="20261021120000 -0500" stop="20261021124500 -0500" channel="teleamazonas">
-    <title>Comunidad</title>
-  </programme>
-  <programme start="20261021124500 -0500" stop="20261021130000 -0500" channel="teleamazonas">
-    <title>En Corto</title>
-  </programme>
-  <programme start="20261021130000 -0500" stop="20261021140000 -0500" channel="teleamazonas">
-    <title>Deporte Total</title>
-  </programme>
-  <programme start="20261021140000 -0500" stop="20261021153000 -0500" channel="teleamazonas">
-    <title>Mi corazón es tuyo</title>
-  </programme>
-  <programme start="20261021153000 -0500" stop="20261021160000 -0500" channel="teleamazonas">
-    <title>Los Simpson Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</title>
-  </programme>
-  <programme start="20261021160000 -0500" stop="20261021163000 -0500" channel="teleamazonas">
-    <title>El Chapulín Colorado Una serie creada por Roberto Gómez Bolaños que relata las aventuras de un Superhéroe, reconocido por su Chipote Chillón y sus divertidas frases.</title>
-  </programme>
-  <programme start="20261021163000 -0500" stop="20261021170000 -0500" channel="teleamazonas">
-    <title>El Chavo del Ocho Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</title>
-  </programme>
-  <programme start="20261021170000 -0500" stop="20261021180000 -0500" channel="teleamazonas">
-    <title>100 Ecuatorianos dicen</title>
-  </programme>
-  <programme start="20261021180000 -0500" stop="20261021190000 -0500" channel="teleamazonas">
-    <title>24 Horas</title>
-  </programme>
-  <programme start="20261021190000 -0500" stop="20261021203000 -0500" channel="teleamazonas">
-    <title>Escape Perfecto</title>
-  </programme>
-  <programme start="20261021203000 -0500" stop="20261021213000 -0500" channel="teleamazonas">
+  <programme start="20261020233000 -0500" stop="20261021003000 -0500" channel="teleamazonas">
     <title>Perdidos de Amor</title>
   </programme>
-  <programme start="20261021213000 -0500" stop="20261021220000 -0500" channel="teleamazonas">
+  <programme start="20261021003000 -0500" stop="20261021010000 -0500" channel="teleamazonas">
     <title>El After</title>
   </programme>
-  <programme start="20261021220000 -0500" stop="20261021224500 -0500" channel="teleamazonas">
+  <programme start="20261021010000 -0500" stop="20261021014500 -0500" channel="teleamazonas">
     <title>100 Ecuatorianos dicen</title>
   </programme>
-  <programme start="20261021224500 -0500" stop="20261022000000 -0500" channel="teleamazonas">
+  <programme start="20261021014500 -0500" stop="20261021030000 -0500" channel="teleamazonas">
     <title>Escape Perfecto</title>
+  </programme>
+  <programme start="20261021030000 -0500" stop="20261021034500 -0500" channel="teleamazonas">
+    <title>C.S.I. Investigadores buscan las verdades de los asesinatos en la ciudad de Las Vegas demostrando a los criminales que salirse con la suya es mucho más difícil.</title>
+  </programme>
+  <programme start="20261021034500 -0500" stop="20261021040000 -0500" channel="teleamazonas">
+    <title>24 horas - Nacional I</title>
+  </programme>
+  <programme start="20261021040000 -0500" stop="20261021041500 -0500" channel="teleamazonas">
+    <title>Entrevistas en 24 horas</title>
+  </programme>
+  <programme start="20261021041500 -0500" stop="20261021044500 -0500" channel="teleamazonas">
+    <title>Yo soy tu madre</title>
+  </programme>
+  <programme start="20261021044500 -0500" stop="20261021050000 -0500" channel="teleamazonas">
+    <title>La Familia Peluche</title>
+  </programme>
+  <programme start="20261021050000 -0500" stop="20261021051500 -0500" channel="teleamazonas">
+    <title>Derbez en cuando</title>
+  </programme>
+  <programme start="20261021051500 -0500" stop="20261021054500 -0500" channel="teleamazonas">
+    <title>El Chapulín Colorado Una serie creada por Roberto Gómez Bolaños que relata las aventuras de un Superhéroe, reconocido por su Chipote Chillón y sus divertidas frases.</title>
+  </programme>
+  <programme start="20261021054500 -0500" stop="20261021060000 -0500" channel="teleamazonas">
+    <title>El Chavo del Ocho Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</title>
+  </programme>
+  <programme start="20261021060000 -0500" stop="20261021064500 -0500" channel="teleamazonas">
+    <title>24 horas - 3ra emisión</title>
+  </programme>
+  <programme start="20261021064500 -0500" stop="20261021080000 -0500" channel="teleamazonas">
+    <title>24 horas - 1ra emisión local</title>
+  </programme>
+  <programme start="20261021080000 -0500" stop="20261021083000 -0500" channel="teleamazonas">
+    <title>24 horas - Nacional I</title>
+  </programme>
+  <programme start="20261021083000 -0500" stop="20261021090000 -0500" channel="teleamazonas">
+    <title>Entrevistas en 24 horas</title>
+  </programme>
+  <programme start="20261021090000 -0500" stop="20261021103000 -0500" channel="teleamazonas">
+    <title>24 horas - 2da emisión local</title>
+  </programme>
+  <programme start="20261021103000 -0500" stop="20261021130000 -0500" channel="teleamazonas">
+    <title>EsTAmañana</title>
+  </programme>
+  <programme start="20261021130000 -0500" stop="20261021140000 -0500" channel="teleamazonas">
+    <title>Por amar sin ley</title>
+  </programme>
+  <programme start="20261021140000 -0500" stop="20261021150000 -0500" channel="teleamazonas">
+    <title>24 Horas</title>
+  </programme>
+  <programme start="20261021150000 -0500" stop="20261021154500 -0500" channel="teleamazonas">
+    <title>Comunidad</title>
+  </programme>
+  <programme start="20261021154500 -0500" stop="20261021160000 -0500" channel="teleamazonas">
+    <title>En Corto</title>
+  </programme>
+  <programme start="20261021160000 -0500" stop="20261021170000 -0500" channel="teleamazonas">
+    <title>Deporte Total</title>
+  </programme>
+  <programme start="20261021170000 -0500" stop="20261021183000 -0500" channel="teleamazonas">
+    <title>Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20261021183000 -0500" stop="20261021190000 -0500" channel="teleamazonas">
+    <title>Los Simpson Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</title>
+  </programme>
+  <programme start="20261021190000 -0500" stop="20261021193000 -0500" channel="teleamazonas">
+    <title>El Chapulín Colorado Una serie creada por Roberto Gómez Bolaños que relata las aventuras de un Superhéroe, reconocido por su Chipote Chillón y sus divertidas frases.</title>
+  </programme>
+  <programme start="20261021193000 -0500" stop="20261021200000 -0500" channel="teleamazonas">
+    <title>El Chavo del Ocho Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</title>
+  </programme>
+  <programme start="20261021200000 -0500" stop="20261021210000 -0500" channel="teleamazonas">
+    <title>100 Ecuatorianos dicen</title>
+  </programme>
+  <programme start="20261021210000 -0500" stop="20261021220000 -0500" channel="teleamazonas">
+    <title>24 Horas</title>
+  </programme>
+  <programme start="20261021220000 -0500" stop="20261021233000 -0500" channel="teleamazonas">
+    <title>Escape Perfecto</title>
+  </programme>
+  <programme start="20261021233000 -0500" stop="20261022003000 -0500" channel="teleamazonas">
+    <title>Perdidos de Amor</title>
   </programme>
   <channel id="gamavision.ec">
     <display-name>Gamavisión</display-name>
