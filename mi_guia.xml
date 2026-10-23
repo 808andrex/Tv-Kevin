@@ -3,176 +3,170 @@
   <channel id="espn.premium">
     <display-name>ESPN Premium</display-name>
   </channel>
-  <programme start="20261023000000 -0500" stop="20261023020000 -0500" channel="espn.premium">
-    <title>Vasco da Gama vs. Boca Juniors Fútbol Conmebol Copa Sudamericana</title>
-  </programme>
-  <programme start="20261023020000 -0500" stop="20261023040000 -0500" channel="espn.premium">
-    <title>Montevideo City Torque vs. Atlético Mineiro Fútbol Conmebol Copa Sudamericana</title>
-  </programme>
-  <programme start="20261023040000 -0500" stop="20261023060000 -0500" channel="espn.premium">
+  <programme start="20261022230000 -0500" stop="20261023010000 -0500" channel="espn.premium">
     <title>Flamengo vs. Estudiantes de La Plata Fútbol Conmebol Copa Libertadores</title>
   </programme>
+  <programme start="20261023010000 -0500" stop="20261023020000 -0500" channel="espn.premium">
+    <title>Goles de la Eredivisie</title>
+  </programme>
+  <programme start="20261023020000 -0500" stop="20261023040000 -0500" channel="espn.premium">
+    <title>Vasco da Gama vs. Boca Juniors Fútbol Conmebol Copa Sudamericana</title>
+  </programme>
+  <programme start="20261023040000 -0500" stop="20261023060000 -0500" channel="espn.premium">
+    <title>Montevideo City Torque vs. Atlético Mineiro Fútbol Conmebol Copa Sudamericana</title>
+  </programme>
   <programme start="20261023060000 -0500" stop="20261023080000 -0500" channel="espn.premium">
+    <title>Flamengo vs. Estudiantes de La Plata Fútbol Conmebol Copa Libertadores</title>
+  </programme>
+  <programme start="20261023080000 -0500" stop="20261023100000 -0500" channel="espn.premium">
     <title>Palmeiras vs. Fluminense Fútbol Conmebol Copa Libertadores</title>
   </programme>
-  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="espn.premium">
+  <programme start="20261023100000 -0500" stop="20261023103000 -0500" channel="espn.premium">
     <title>Bundesliga Preview Show</title>
   </programme>
-  <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="espn.premium">
+  <programme start="20261023103000 -0500" stop="20261023110000 -0500" channel="espn.premium">
     <title>EFL Highlights</title>
   </programme>
-  <programme start="20261023090000 -0500" stop="20261023093000 -0500" channel="espn.premium">
+  <programme start="20261023110000 -0500" stop="20261023113000 -0500" channel="espn.premium">
     <title>FIM Road Racing World Championship Highlights</title>
   </programme>
-  <programme start="20261023093000 -0500" stop="20261023102500 -0500" channel="espn.premium">
+  <programme start="20261023113000 -0500" stop="20261023122500 -0500" channel="espn.premium">
     <title>El Show de la F1</title>
   </programme>
-  <programme start="20261023102500 -0500" stop="20261023113500 -0500" channel="espn.premium">
+  <programme start="20261023122500 -0500" stop="20261023133500 -0500" channel="espn.premium">
     <title>Automovilismo Fórmula 1</title>
   </programme>
-  <programme start="20261023113500 -0500" stop="20261023120300 -0500" channel="espn.premium">
+  <programme start="20261023133500 -0500" stop="20261023140300 -0500" channel="espn.premium">
     <title>FIM Road Racing World Championship Highlights</title>
   </programme>
-  <programme start="20261023120300 -0500" stop="20261023123100 -0500" channel="espn.premium">
+  <programme start="20261023140300 -0500" stop="20261023143100 -0500" channel="espn.premium">
     <title>Aguas Arriba</title>
   </programme>
-  <programme start="20261023123100 -0500" stop="20261023125900 -0500" channel="espn.premium">
+  <programme start="20261023143100 -0500" stop="20261023145900 -0500" channel="espn.premium">
     <title>Acción de la NBA</title>
   </programme>
-  <programme start="20261023125900 -0500" stop="20261023132700 -0500" channel="espn.premium">
+  <programme start="20261023145900 -0500" stop="20261023152700 -0500" channel="espn.premium">
     <title>ATP Tour Uncovered</title>
   </programme>
-  <programme start="20261023132700 -0500" stop="20261023135500 -0500" channel="espn.premium">
+  <programme start="20261023152700 -0500" stop="20261023155500 -0500" channel="espn.premium">
     <title>FIM Road Racing World Championship Highlights</title>
   </programme>
-  <programme start="20261023135500 -0500" stop="20261023150500 -0500" channel="espn.premium">
+  <programme start="20261023155500 -0500" stop="20261023170500 -0500" channel="espn.premium">
     <title>Automovilismo Fórmula 1</title>
   </programme>
-  <programme start="20261023150500 -0500" stop="20261023160000 -0500" channel="espn.premium">
+  <programme start="20261023170500 -0500" stop="20261023180000 -0500" channel="espn.premium">
     <title>ESPN Premium Chile</title>
   </programme>
-  <programme start="20261023160000 -0500" stop="20261023163000 -0500" channel="espn.premium">
+  <programme start="20261023180000 -0500" stop="20261023183000 -0500" channel="espn.premium">
     <title>Bundesliga Preview Show</title>
   </programme>
-  <programme start="20261023163000 -0500" stop="20261023170000 -0500" channel="espn.premium">
+  <programme start="20261023183000 -0500" stop="20261023190000 -0500" channel="espn.premium">
     <title>EFL Highlights</title>
   </programme>
-  <programme start="20261023170000 -0500" stop="20261023190000 -0500" channel="espn.premium">
+  <programme start="20261023190000 -0500" stop="20261023210000 -0500" channel="espn.premium">
     <title>Fútbol EFL Championship</title>
   </programme>
-  <programme start="20261023190000 -0500" stop="20261023193000 -0500" channel="espn.premium">
+  <programme start="20261023210000 -0500" stop="20261023213000 -0500" channel="espn.premium">
     <title>UEFA Champions League Weekly</title>
   </programme>
-  <programme start="20261023193000 -0500" stop="20261023200000 -0500" channel="espn.premium">
+  <programme start="20261023213000 -0500" stop="20261023220000 -0500" channel="espn.premium">
     <title>Bundesliga Preview Show</title>
   </programme>
-  <programme start="20261023200000 -0500" stop="20261023211000 -0500" channel="espn.premium">
+  <programme start="20261023220000 -0500" stop="20261023231000 -0500" channel="espn.premium">
     <title>Automovilismo Fórmula 1</title>
   </programme>
-  <programme start="20261023211000 -0500" stop="20261023222000 -0500" channel="espn.premium">
+  <programme start="20261023231000 -0500" stop="20261024002000 -0500" channel="espn.premium">
     <title>Automovilismo Fórmula 1</title>
-  </programme>
-  <programme start="20261023222000 -0500" stop="20261023222500 -0500" channel="espn.premium">
-    <title>Moto Grand Prix F.I.M. Highlights</title>
-  </programme>
-  <programme start="20261023222500 -0500" stop="20261023232500 -0500" channel="espn.premium">
-    <title>ESPN Knockout</title>
-  </programme>
-  <programme start="20261023232500 -0500" stop="20261023235500 -0500" channel="espn.premium">
-    <title>UEFA Champions League Weekly</title>
-  </programme>
-  <programme start="20261023235500 -0500" stop="20261024015500 -0500" channel="espn.premium">
-    <title>Fútbol EFL Championship</title>
   </programme>
   <channel id="teleamazonas">
     <display-name>Teleamazonas</display-name>
   </channel>
   <programme start="20261023000000 -0500" stop="20261023004500 -0500" channel="teleamazonas">
+    <title>100 Ecuatorianos dicen</title>
+  </programme>
+  <programme start="20261023004500 -0500" stop="20261023020000 -0500" channel="teleamazonas">
+    <title>Escape Perfecto</title>
+  </programme>
+  <programme start="20261023020000 -0500" stop="20261023024500 -0500" channel="teleamazonas">
     <title>C.S.I. Miami Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.</title>
   </programme>
-  <programme start="20261023004500 -0500" stop="20261023010000 -0500" channel="teleamazonas">
+  <programme start="20261023024500 -0500" stop="20261023030000 -0500" channel="teleamazonas">
     <title>24 horas - Nacional I</title>
   </programme>
-  <programme start="20261023010000 -0500" stop="20261023011500 -0500" channel="teleamazonas">
+  <programme start="20261023030000 -0500" stop="20261023031500 -0500" channel="teleamazonas">
     <title>Entrevistas en 24 horas</title>
   </programme>
-  <programme start="20261023011500 -0500" stop="20261023014500 -0500" channel="teleamazonas">
+  <programme start="20261023031500 -0500" stop="20261023034500 -0500" channel="teleamazonas">
     <title>Yo soy tu madre</title>
   </programme>
-  <programme start="20261023014500 -0500" stop="20261023020000 -0500" channel="teleamazonas">
+  <programme start="20261023034500 -0500" stop="20261023040000 -0500" channel="teleamazonas">
     <title>La Familia Peluche</title>
   </programme>
-  <programme start="20261023020000 -0500" stop="20261023021500 -0500" channel="teleamazonas">
+  <programme start="20261023040000 -0500" stop="20261023041500 -0500" channel="teleamazonas">
     <title>Derbez en cuando</title>
   </programme>
-  <programme start="20261023021500 -0500" stop="20261023024500 -0500" channel="teleamazonas">
+  <programme start="20261023041500 -0500" stop="20261023044500 -0500" channel="teleamazonas">
     <title>El Chapulín Colorado Una serie creada por Roberto Gómez Bolaños que relata las aventuras de un Superhéroe, reconocido por su Chipote Chillón y sus divertidas frases.</title>
   </programme>
-  <programme start="20261023024500 -0500" stop="20261023030000 -0500" channel="teleamazonas">
+  <programme start="20261023044500 -0500" stop="20261023050000 -0500" channel="teleamazonas">
     <title>El Chavo del Ocho Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</title>
   </programme>
-  <programme start="20261023030000 -0500" stop="20261023034500 -0500" channel="teleamazonas">
+  <programme start="20261023050000 -0500" stop="20261023054500 -0500" channel="teleamazonas">
     <title>24 horas - 3ra emisión</title>
   </programme>
-  <programme start="20261023034500 -0500" stop="20261023050000 -0500" channel="teleamazonas">
+  <programme start="20261023054500 -0500" stop="20261023070000 -0500" channel="teleamazonas">
     <title>24 horas - 1ra emisión local</title>
   </programme>
-  <programme start="20261023050000 -0500" stop="20261023053000 -0500" channel="teleamazonas">
+  <programme start="20261023070000 -0500" stop="20261023073000 -0500" channel="teleamazonas">
     <title>24 horas - Nacional I</title>
   </programme>
-  <programme start="20261023053000 -0500" stop="20261023060000 -0500" channel="teleamazonas">
+  <programme start="20261023073000 -0500" stop="20261023080000 -0500" channel="teleamazonas">
     <title>Entrevistas en 24 horas</title>
   </programme>
-  <programme start="20261023060000 -0500" stop="20261023073000 -0500" channel="teleamazonas">
+  <programme start="20261023080000 -0500" stop="20261023093000 -0500" channel="teleamazonas">
     <title>24 horas - 2da emisión local</title>
   </programme>
-  <programme start="20261023073000 -0500" stop="20261023100000 -0500" channel="teleamazonas">
+  <programme start="20261023093000 -0500" stop="20261023120000 -0500" channel="teleamazonas">
     <title>EsTAmañana</title>
   </programme>
-  <programme start="20261023100000 -0500" stop="20261023110000 -0500" channel="teleamazonas">
+  <programme start="20261023120000 -0500" stop="20261023130000 -0500" channel="teleamazonas">
     <title>Por amar sin ley</title>
   </programme>
-  <programme start="20261023110000 -0500" stop="20261023120000 -0500" channel="teleamazonas">
+  <programme start="20261023130000 -0500" stop="20261023140000 -0500" channel="teleamazonas">
     <title>24 Horas</title>
   </programme>
-  <programme start="20261023120000 -0500" stop="20261023124500 -0500" channel="teleamazonas">
+  <programme start="20261023140000 -0500" stop="20261023144500 -0500" channel="teleamazonas">
     <title>Comunidad</title>
   </programme>
-  <programme start="20261023124500 -0500" stop="20261023130000 -0500" channel="teleamazonas">
+  <programme start="20261023144500 -0500" stop="20261023150000 -0500" channel="teleamazonas">
     <title>En Corto</title>
   </programme>
-  <programme start="20261023130000 -0500" stop="20261023140000 -0500" channel="teleamazonas">
+  <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="teleamazonas">
     <title>Deporte Total</title>
   </programme>
-  <programme start="20261023140000 -0500" stop="20261023153000 -0500" channel="teleamazonas">
+  <programme start="20261023160000 -0500" stop="20261023173000 -0500" channel="teleamazonas">
     <title>Mi corazón es tuyo</title>
   </programme>
-  <programme start="20261023153000 -0500" stop="20261023160000 -0500" channel="teleamazonas">
+  <programme start="20261023173000 -0500" stop="20261023180000 -0500" channel="teleamazonas">
     <title>Los Simpson Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</title>
   </programme>
-  <programme start="20261023160000 -0500" stop="20261023163000 -0500" channel="teleamazonas">
+  <programme start="20261023180000 -0500" stop="20261023183000 -0500" channel="teleamazonas">
     <title>El Chapulín Colorado Una serie creada por Roberto Gómez Bolaños que relata las aventuras de un Superhéroe, reconocido por su Chipote Chillón y sus divertidas frases.</title>
   </programme>
-  <programme start="20261023163000 -0500" stop="20261023170000 -0500" channel="teleamazonas">
+  <programme start="20261023183000 -0500" stop="20261023190000 -0500" channel="teleamazonas">
     <title>El Chavo del Ocho Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</title>
   </programme>
-  <programme start="20261023170000 -0500" stop="20261023180000 -0500" channel="teleamazonas">
+  <programme start="20261023190000 -0500" stop="20261023200000 -0500" channel="teleamazonas">
     <title>100 Ecuatorianos dicen</title>
   </programme>
-  <programme start="20261023180000 -0500" stop="20261023190000 -0500" channel="teleamazonas">
+  <programme start="20261023200000 -0500" stop="20261023210000 -0500" channel="teleamazonas">
     <title>24 Horas</title>
   </programme>
-  <programme start="20261023190000 -0500" stop="20261023203000 -0500" channel="teleamazonas">
+  <programme start="20261023210000 -0500" stop="20261023223000 -0500" channel="teleamazonas">
     <title>Escape Perfecto</title>
   </programme>
-  <programme start="20261023203000 -0500" stop="20261023220000 -0500" channel="teleamazonas">
+  <programme start="20261023223000 -0500" stop="20261024000000 -0500" channel="teleamazonas">
     <title>Perdidos de Amor</title>
-  </programme>
-  <programme start="20261023220000 -0500" stop="20261023224500 -0500" channel="teleamazonas">
-    <title>100 Ecuatorianos dicen</title>
-  </programme>
-  <programme start="20261023224500 -0500" stop="20261024000000 -0500" channel="teleamazonas">
-    <title>Escape Perfecto</title>
   </programme>
   <channel id="gamavision.ec">
     <display-name>Gamavisión</display-name>
