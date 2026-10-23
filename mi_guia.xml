@@ -3,142 +3,175 @@
   <channel id="espn.premium">
     <display-name>ESPN Premium</display-name>
   </channel>
-  <programme start="20261022000000 -0500" stop="20261022020000 -0500" channel="espn.premium">
+  <programme start="20261023000000 -0500" stop="20261023020000 -0500" channel="espn.premium">
+    <title>Vasco da Gama vs. Boca Juniors Fútbol Conmebol Copa Sudamericana</title>
+  </programme>
+  <programme start="20261023020000 -0500" stop="20261023040000 -0500" channel="espn.premium">
     <title>Montevideo City Torque vs. Atlético Mineiro Fútbol Conmebol Copa Sudamericana</title>
   </programme>
-  <programme start="20261022020000 -0500" stop="20261022040000 -0500" channel="espn.premium">
-    <title>Estudiantes de La Plata vs. Flamengo Fútbol Conmebol Copa Libertadores</title>
+  <programme start="20261023040000 -0500" stop="20261023060000 -0500" channel="espn.premium">
+    <title>Flamengo vs. Estudiantes de La Plata Fútbol Conmebol Copa Libertadores</title>
   </programme>
-  <programme start="20261022040000 -0500" stop="20261022050000 -0500" channel="espn.premium">
-    <title>Goles de la Eredivisie</title>
-  </programme>
-  <programme start="20261022050000 -0500" stop="20261022070000 -0500" channel="espn.premium">
+  <programme start="20261023060000 -0500" stop="20261023080000 -0500" channel="espn.premium">
     <title>Palmeiras vs. Fluminense Fútbol Conmebol Copa Libertadores</title>
   </programme>
-  <programme start="20261022070000 -0500" stop="20261022090000 -0500" channel="espn.premium">
-    <title>Montevideo City Torque vs. Atlético Mineiro Fútbol Conmebol Copa Sudamericana</title>
-  </programme>
-  <programme start="20261022090000 -0500" stop="20261022093000 -0500" channel="espn.premium">
+  <programme start="20261023080000 -0500" stop="20261023083000 -0500" channel="espn.premium">
     <title>Bundesliga Preview Show</title>
   </programme>
-  <programme start="20261022093000 -0500" stop="20261022113000 -0500" channel="espn.premium">
-    <title>Miami Heat vs. Minnesota Timberwolves Baloncesto NBA</title>
+  <programme start="20261023083000 -0500" stop="20261023090000 -0500" channel="espn.premium">
+    <title>EFL Highlights</title>
   </programme>
-  <programme start="20261022113000 -0500" stop="20261022133000 -0500" channel="espn.premium">
-    <title>Los Angeles Lakers vs. Golden State Warriors Baloncesto NBA</title>
-  </programme>
-  <programme start="20261022133000 -0500" stop="20261022140000 -0500" channel="espn.premium">
-    <title>ATP Tour Uncovered</title>
-  </programme>
-  <programme start="20261022140000 -0500" stop="20261022150000 -0500" channel="espn.premium">
-    <title>Goles de la Eredivisie</title>
-  </programme>
-  <programme start="20261022150000 -0500" stop="20261022170000 -0500" channel="espn.premium">
-    <title>Palmeiras vs. Fluminense Fútbol Conmebol Copa Libertadores</title>
-  </programme>
-  <programme start="20261022170000 -0500" stop="20261022193000 -0500" channel="espn.premium">
-    <title>Flamengo vs. Estudiantes de La Plata Fútbol Conmebol Copa Libertadores</title>
-  </programme>
-  <programme start="20261022193000 -0500" stop="20261022203000 -0500" channel="espn.premium">
-    <title>El Show de la F1</title>
-  </programme>
-  <programme start="20261022203000 -0500" stop="20261022210000 -0500" channel="espn.premium">
+  <programme start="20261023090000 -0500" stop="20261023093000 -0500" channel="espn.premium">
     <title>FIM Road Racing World Championship Highlights</title>
   </programme>
-  <programme start="20261022210000 -0500" stop="20261022230000 -0500" channel="espn.premium">
-    <title>Flamengo vs. Estudiantes de La Plata Fútbol Conmebol Copa Libertadores</title>
+  <programme start="20261023093000 -0500" stop="20261023102500 -0500" channel="espn.premium">
+    <title>El Show de la F1</title>
   </programme>
-  <programme start="20261022230000 -0500" stop="20261023000000 -0500" channel="espn.premium">
-    <title>Goles de la Eredivisie</title>
+  <programme start="20261023102500 -0500" stop="20261023113500 -0500" channel="espn.premium">
+    <title>Automovilismo Fórmula 1</title>
+  </programme>
+  <programme start="20261023113500 -0500" stop="20261023120300 -0500" channel="espn.premium">
+    <title>FIM Road Racing World Championship Highlights</title>
+  </programme>
+  <programme start="20261023120300 -0500" stop="20261023123100 -0500" channel="espn.premium">
+    <title>Aguas Arriba</title>
+  </programme>
+  <programme start="20261023123100 -0500" stop="20261023125900 -0500" channel="espn.premium">
+    <title>Acción de la NBA</title>
+  </programme>
+  <programme start="20261023125900 -0500" stop="20261023132700 -0500" channel="espn.premium">
+    <title>ATP Tour Uncovered</title>
+  </programme>
+  <programme start="20261023132700 -0500" stop="20261023135500 -0500" channel="espn.premium">
+    <title>FIM Road Racing World Championship Highlights</title>
+  </programme>
+  <programme start="20261023135500 -0500" stop="20261023150500 -0500" channel="espn.premium">
+    <title>Automovilismo Fórmula 1</title>
+  </programme>
+  <programme start="20261023150500 -0500" stop="20261023160000 -0500" channel="espn.premium">
+    <title>ESPN Premium Chile</title>
+  </programme>
+  <programme start="20261023160000 -0500" stop="20261023163000 -0500" channel="espn.premium">
+    <title>Bundesliga Preview Show</title>
+  </programme>
+  <programme start="20261023163000 -0500" stop="20261023170000 -0500" channel="espn.premium">
+    <title>EFL Highlights</title>
+  </programme>
+  <programme start="20261023170000 -0500" stop="20261023190000 -0500" channel="espn.premium">
+    <title>Fútbol EFL Championship</title>
+  </programme>
+  <programme start="20261023190000 -0500" stop="20261023193000 -0500" channel="espn.premium">
+    <title>UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20261023193000 -0500" stop="20261023200000 -0500" channel="espn.premium">
+    <title>Bundesliga Preview Show</title>
+  </programme>
+  <programme start="20261023200000 -0500" stop="20261023211000 -0500" channel="espn.premium">
+    <title>Automovilismo Fórmula 1</title>
+  </programme>
+  <programme start="20261023211000 -0500" stop="20261023222000 -0500" channel="espn.premium">
+    <title>Automovilismo Fórmula 1</title>
+  </programme>
+  <programme start="20261023222000 -0500" stop="20261023222500 -0500" channel="espn.premium">
+    <title>Moto Grand Prix F.I.M. Highlights</title>
+  </programme>
+  <programme start="20261023222500 -0500" stop="20261023232500 -0500" channel="espn.premium">
+    <title>ESPN Knockout</title>
+  </programme>
+  <programme start="20261023232500 -0500" stop="20261023235500 -0500" channel="espn.premium">
+    <title>UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20261023235500 -0500" stop="20261024015500 -0500" channel="espn.premium">
+    <title>Fútbol EFL Championship</title>
   </programme>
   <channel id="teleamazonas">
     <display-name>Teleamazonas</display-name>
   </channel>
-  <programme start="20261022000000 -0500" stop="20261022004500 -0500" channel="teleamazonas">
-    <title>C.S.I. Investigadores buscan las verdades de los asesinatos en la ciudad de Las Vegas demostrando a los criminales que salirse con la suya es mucho más difícil.</title>
+  <programme start="20261023000000 -0500" stop="20261023004500 -0500" channel="teleamazonas">
+    <title>C.S.I. Miami Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.</title>
   </programme>
-  <programme start="20261022004500 -0500" stop="20261022010000 -0500" channel="teleamazonas">
+  <programme start="20261023004500 -0500" stop="20261023010000 -0500" channel="teleamazonas">
     <title>24 horas - Nacional I</title>
   </programme>
-  <programme start="20261022010000 -0500" stop="20261022011500 -0500" channel="teleamazonas">
+  <programme start="20261023010000 -0500" stop="20261023011500 -0500" channel="teleamazonas">
     <title>Entrevistas en 24 horas</title>
   </programme>
-  <programme start="20261022011500 -0500" stop="20261022014500 -0500" channel="teleamazonas">
+  <programme start="20261023011500 -0500" stop="20261023014500 -0500" channel="teleamazonas">
     <title>Yo soy tu madre</title>
   </programme>
-  <programme start="20261022014500 -0500" stop="20261022020000 -0500" channel="teleamazonas">
+  <programme start="20261023014500 -0500" stop="20261023020000 -0500" channel="teleamazonas">
     <title>La Familia Peluche</title>
   </programme>
-  <programme start="20261022020000 -0500" stop="20261022021500 -0500" channel="teleamazonas">
+  <programme start="20261023020000 -0500" stop="20261023021500 -0500" channel="teleamazonas">
     <title>Derbez en cuando</title>
   </programme>
-  <programme start="20261022021500 -0500" stop="20261022024500 -0500" channel="teleamazonas">
+  <programme start="20261023021500 -0500" stop="20261023024500 -0500" channel="teleamazonas">
     <title>El Chapulín Colorado Una serie creada por Roberto Gómez Bolaños que relata las aventuras de un Superhéroe, reconocido por su Chipote Chillón y sus divertidas frases.</title>
   </programme>
-  <programme start="20261022024500 -0500" stop="20261022030000 -0500" channel="teleamazonas">
+  <programme start="20261023024500 -0500" stop="20261023030000 -0500" channel="teleamazonas">
     <title>El Chavo del Ocho Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</title>
   </programme>
-  <programme start="20261022030000 -0500" stop="20261022034500 -0500" channel="teleamazonas">
+  <programme start="20261023030000 -0500" stop="20261023034500 -0500" channel="teleamazonas">
     <title>24 horas - 3ra emisión</title>
   </programme>
-  <programme start="20261022034500 -0500" stop="20261022050000 -0500" channel="teleamazonas">
+  <programme start="20261023034500 -0500" stop="20261023050000 -0500" channel="teleamazonas">
     <title>24 horas - 1ra emisión local</title>
   </programme>
-  <programme start="20261022050000 -0500" stop="20261022053000 -0500" channel="teleamazonas">
+  <programme start="20261023050000 -0500" stop="20261023053000 -0500" channel="teleamazonas">
     <title>24 horas - Nacional I</title>
   </programme>
-  <programme start="20261022053000 -0500" stop="20261022060000 -0500" channel="teleamazonas">
+  <programme start="20261023053000 -0500" stop="20261023060000 -0500" channel="teleamazonas">
     <title>Entrevistas en 24 horas</title>
   </programme>
-  <programme start="20261022060000 -0500" stop="20261022073000 -0500" channel="teleamazonas">
+  <programme start="20261023060000 -0500" stop="20261023073000 -0500" channel="teleamazonas">
     <title>24 horas - 2da emisión local</title>
   </programme>
-  <programme start="20261022073000 -0500" stop="20261022100000 -0500" channel="teleamazonas">
+  <programme start="20261023073000 -0500" stop="20261023100000 -0500" channel="teleamazonas">
     <title>EsTAmañana</title>
   </programme>
-  <programme start="20261022100000 -0500" stop="20261022110000 -0500" channel="teleamazonas">
+  <programme start="20261023100000 -0500" stop="20261023110000 -0500" channel="teleamazonas">
     <title>Por amar sin ley</title>
   </programme>
-  <programme start="20261022110000 -0500" stop="20261022120000 -0500" channel="teleamazonas">
+  <programme start="20261023110000 -0500" stop="20261023120000 -0500" channel="teleamazonas">
     <title>24 Horas</title>
   </programme>
-  <programme start="20261022120000 -0500" stop="20261022124500 -0500" channel="teleamazonas">
+  <programme start="20261023120000 -0500" stop="20261023124500 -0500" channel="teleamazonas">
     <title>Comunidad</title>
   </programme>
-  <programme start="20261022124500 -0500" stop="20261022130000 -0500" channel="teleamazonas">
+  <programme start="20261023124500 -0500" stop="20261023130000 -0500" channel="teleamazonas">
     <title>En Corto</title>
   </programme>
-  <programme start="20261022130000 -0500" stop="20261022140000 -0500" channel="teleamazonas">
+  <programme start="20261023130000 -0500" stop="20261023140000 -0500" channel="teleamazonas">
     <title>Deporte Total</title>
   </programme>
-  <programme start="20261022140000 -0500" stop="20261022153000 -0500" channel="teleamazonas">
+  <programme start="20261023140000 -0500" stop="20261023153000 -0500" channel="teleamazonas">
     <title>Mi corazón es tuyo</title>
   </programme>
-  <programme start="20261022153000 -0500" stop="20261022160000 -0500" channel="teleamazonas">
+  <programme start="20261023153000 -0500" stop="20261023160000 -0500" channel="teleamazonas">
     <title>Los Simpson Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</title>
   </programme>
-  <programme start="20261022160000 -0500" stop="20261022163000 -0500" channel="teleamazonas">
+  <programme start="20261023160000 -0500" stop="20261023163000 -0500" channel="teleamazonas">
     <title>El Chapulín Colorado Una serie creada por Roberto Gómez Bolaños que relata las aventuras de un Superhéroe, reconocido por su Chipote Chillón y sus divertidas frases.</title>
   </programme>
-  <programme start="20261022163000 -0500" stop="20261022170000 -0500" channel="teleamazonas">
+  <programme start="20261023163000 -0500" stop="20261023170000 -0500" channel="teleamazonas">
     <title>El Chavo del Ocho Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</title>
   </programme>
-  <programme start="20261022170000 -0500" stop="20261022180000 -0500" channel="teleamazonas">
+  <programme start="20261023170000 -0500" stop="20261023180000 -0500" channel="teleamazonas">
     <title>100 Ecuatorianos dicen</title>
   </programme>
-  <programme start="20261022180000 -0500" stop="20261022190000 -0500" channel="teleamazonas">
+  <programme start="20261023180000 -0500" stop="20261023190000 -0500" channel="teleamazonas">
     <title>24 Horas</title>
   </programme>
-  <programme start="20261022190000 -0500" stop="20261022203000 -0500" channel="teleamazonas">
+  <programme start="20261023190000 -0500" stop="20261023203000 -0500" channel="teleamazonas">
     <title>Escape Perfecto</title>
   </programme>
-  <programme start="20261022203000 -0500" stop="20261022220000 -0500" channel="teleamazonas">
+  <programme start="20261023203000 -0500" stop="20261023220000 -0500" channel="teleamazonas">
     <title>Perdidos de Amor</title>
   </programme>
-  <programme start="20261022220000 -0500" stop="20261022224500 -0500" channel="teleamazonas">
+  <programme start="20261023220000 -0500" stop="20261023224500 -0500" channel="teleamazonas">
     <title>100 Ecuatorianos dicen</title>
   </programme>
-  <programme start="20261022224500 -0500" stop="20261023000000 -0500" channel="teleamazonas">
+  <programme start="20261023224500 -0500" stop="20261024000000 -0500" channel="teleamazonas">
     <title>Escape Perfecto</title>
   </programme>
   <channel id="gamavision.ec">
@@ -147,458 +180,525 @@
   <channel id="tvc">
     <display-name>TVC</display-name>
   </channel>
-  <programme start="20261022000000 -0500" stop="20261022010000 -0500" channel="tvc">
+  <programme start="20261023000000 -0500" stop="20261023010000 -0500" channel="tvc">
     <title>NCIS Los Angeles</title>
   </programme>
-  <programme start="20261022010000 -0500" stop="20261022020000 -0500" channel="tvc">
+  <programme start="20261023010000 -0500" stop="20261023020000 -0500" channel="tvc">
     <title>The Walking Dead</title>
   </programme>
-  <programme start="20261022020000 -0500" stop="20261022030000 -0500" channel="tvc">
+  <programme start="20261023020000 -0500" stop="20261023030000 -0500" channel="tvc">
     <title>NCIS New Orleans</title>
   </programme>
-  <programme start="20261022030000 -0500" stop="20261022040000 -0500" channel="tvc">
+  <programme start="20261023030000 -0500" stop="20261023040000 -0500" channel="tvc">
     <title>Gran Hotel</title>
   </programme>
-  <programme start="20261022040000 -0500" stop="20261022050000 -0500" channel="tvc">
+  <programme start="20261023040000 -0500" stop="20261023050000 -0500" channel="tvc">
     <title>Educa</title>
   </programme>
-  <programme start="20261022050000 -0500" stop="20261022054500 -0500" channel="tvc">
+  <programme start="20261023050000 -0500" stop="20261023054500 -0500" channel="tvc">
     <title>TVC Noticias Reprise</title>
   </programme>
-  <programme start="20261022054500 -0500" stop="20261022070000 -0500" channel="tvc">
+  <programme start="20261023054500 -0500" stop="20261023070000 -0500" channel="tvc">
     <title>TVC A Primera Hora</title>
   </programme>
-  <programme start="20261022070000 -0500" stop="20261022080000 -0500" channel="tvc">
+  <programme start="20261023070000 -0500" stop="20261023080000 -0500" channel="tvc">
     <title>TVC Noticias Primera Emisión</title>
   </programme>
-  <programme start="20261022080000 -0500" stop="20261022093000 -0500" channel="tvc">
+  <programme start="20261023080000 -0500" stop="20261023093000 -0500" channel="tvc">
     <title>TVC En La Comunidad</title>
   </programme>
-  <programme start="20261022093000 -0500" stop="20261022110000 -0500" channel="tvc">
+  <programme start="20261023093000 -0500" stop="20261023110000 -0500" channel="tvc">
     <title>Buenos Días TVC</title>
   </programme>
-  <programme start="20261022110000 -0500" stop="20261022120000 -0500" channel="tvc">
+  <programme start="20261023110000 -0500" stop="20261023120000 -0500" channel="tvc">
     <title>Perdóname</title>
   </programme>
-  <programme start="20261022120000 -0500" stop="20261022130000 -0500" channel="tvc">
+  <programme start="20261023120000 -0500" stop="20261023130000 -0500" channel="tvc">
     <title>El Privilegio de Amar</title>
   </programme>
-  <programme start="20261022130000 -0500" stop="20261022140000 -0500" channel="tvc">
+  <programme start="20261023130000 -0500" stop="20261023140000 -0500" channel="tvc">
     <title>Cuando Los Ángeles Caen</title>
   </programme>
-  <programme start="20261022140000 -0500" stop="20261022150000 -0500" channel="tvc">
+  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="tvc">
     <title>Acorralada</title>
   </programme>
-  <programme start="20261022150000 -0500" stop="20261022160000 -0500" channel="tvc">
+  <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="tvc">
     <title>Rosa de Guadalupe</title>
   </programme>
-  <programme start="20261022160000 -0500" stop="20261022170000 -0500" channel="tvc">
+  <programme start="20261023160000 -0500" stop="20261023170000 -0500" channel="tvc">
     <title>Caso Cerrado</title>
   </programme>
-  <programme start="20261022170000 -0500" stop="20261022180000 -0500" channel="tvc">
+  <programme start="20261023170000 -0500" stop="20261023180000 -0500" channel="tvc">
     <title>Esmeralda</title>
   </programme>
-  <programme start="20261022180000 -0500" stop="20261022190000 -0500" channel="tvc">
+  <programme start="20261023180000 -0500" stop="20261023190000 -0500" channel="tvc">
     <title>Mi Verdad Oculta</title>
   </programme>
-  <programme start="20261022190000 -0500" stop="20261022200000 -0500" channel="tvc">
-    <title>Guardian de mi Vida</title>
+  <programme start="20261023190000 -0500" stop="20261023200000 -0500" channel="tvc">
+    <title>Mi Rival</title>
   </programme>
-  <programme start="20261022200000 -0500" stop="20261022220000 -0500" channel="tvc">
+  <programme start="20261023200000 -0500" stop="20261023220000 -0500" channel="tvc">
     <title>Rosa de Guadalupe</title>
   </programme>
-  <programme start="20261022220000 -0500" stop="20261022230000 -0500" channel="tvc">
+  <programme start="20261023220000 -0500" stop="20261023230000 -0500" channel="tvc">
     <title>TVC Noticias</title>
   </programme>
-  <programme start="20261022230000 -0500" stop="20261023000000 -0500" channel="tvc">
+  <programme start="20261023230000 -0500" stop="20261024000000 -0500" channel="tvc">
     <title>Laura</title>
   </programme>
   <channel id="rts">
     <display-name>RTS</display-name>
   </channel>
-  <programme start="20261022000000 -0500" stop="20261022010000 -0500" channel="rts">
+  <programme start="20261023000000 -0500" stop="20261023010000 -0500" channel="rts">
     <title>The walking dead</title>
   </programme>
-  <programme start="20261022010000 -0500" stop="20261022030000 -0500" channel="rts">
+  <programme start="20261023010000 -0500" stop="20261023030000 -0500" channel="rts">
     <title>Lucha Libre AAA</title>
   </programme>
-  <programme start="20261022030000 -0500" stop="20261022040000 -0500" channel="rts">
+  <programme start="20261023030000 -0500" stop="20261023040000 -0500" channel="rts">
     <title>Ecuador Multicolor</title>
   </programme>
-  <programme start="20261022040000 -0500" stop="20261022050000 -0500" channel="rts">
+  <programme start="20261023040000 -0500" stop="20261023050000 -0500" channel="rts">
     <title>Educa</title>
   </programme>
-  <programme start="20261022050000 -0500" stop="20261022054500 -0500" channel="rts">
+  <programme start="20261023050000 -0500" stop="20261023054500 -0500" channel="rts">
     <title>La Noticia (Reprise)</title>
-    <desc>Lunes a Viernes 22h00 Antes de terminar el día, le mostraremos un punto de vista diferente que complementará la información que usted necesita. Ponemos un reflejo de la realidad en su pantalla. Síganos en twitter @RTS_LaNoticia</desc>
   </programme>
-  <programme start="20261022054500 -0500" stop="20261022070000 -0500" channel="rts">
+  <programme start="20261023054500 -0500" stop="20261023070000 -0500" channel="rts">
     <title>El Despertar de La Noticia</title>
   </programme>
-  <programme start="20261022070000 -0500" stop="20261022080000 -0500" channel="rts">
+  <programme start="20261023070000 -0500" stop="20261023080000 -0500" channel="rts">
     <title>La Noticia Primera Emisión</title>
   </programme>
-  <programme start="20261022080000 -0500" stop="20261022093000 -0500" channel="rts">
+  <programme start="20261023080000 -0500" stop="20261023093000 -0500" channel="rts">
     <title>La Noticia en la Comunidad</title>
   </programme>
-  <programme start="20261022093000 -0500" stop="20261022110000 -0500" channel="rts">
+  <programme start="20261023093000 -0500" stop="20261023110000 -0500" channel="rts">
     <title>Noticias De La Mañana</title>
   </programme>
-  <programme start="20261022110000 -0500" stop="20261022120000 -0500" channel="rts">
+  <programme start="20261023110000 -0500" stop="20261023120000 -0500" channel="rts">
     <title>Mujer Casos de la Vida Real</title>
   </programme>
-  <programme start="20261022120000 -0500" stop="20261022130000 -0500" channel="rts">
+  <programme start="20261023120000 -0500" stop="20261023130000 -0500" channel="rts">
     <title>Elif</title>
   </programme>
-  <programme start="20261022130000 -0500" stop="20261022140000 -0500" channel="rts">
+  <programme start="20261023130000 -0500" stop="20261023140000 -0500" channel="rts">
     <title>La Rosa de Guadalupe</title>
   </programme>
-  <programme start="20261022140000 -0500" stop="20261022150000 -0500" channel="rts">
+  <programme start="20261023140000 -0500" stop="20261023150000 -0500" channel="rts">
     <title>Laura</title>
   </programme>
-  <programme start="20261022150000 -0500" stop="20261022160000 -0500" channel="rts">
+  <programme start="20261023150000 -0500" stop="20261023160000 -0500" channel="rts">
     <title>Legado de Amor</title>
   </programme>
-  <programme start="20261022160000 -0500" stop="20261022170000 -0500" channel="rts">
+  <programme start="20261023160000 -0500" stop="20261023170000 -0500" channel="rts">
     <title>Cuando los Ángeles Caen</title>
   </programme>
-  <programme start="20261022170000 -0500" stop="20261022180000 -0500" channel="rts">
+  <programme start="20261023170000 -0500" stop="20261023180000 -0500" channel="rts">
     <title>Caso Cerrado</title>
   </programme>
-  <programme start="20261022180000 -0500" stop="20261022190000 -0500" channel="rts">
+  <programme start="20261023180000 -0500" stop="20261023190000 -0500" channel="rts">
     <title>Esposa por Obligación</title>
   </programme>
-  <programme start="20261022190000 -0500" stop="20261022210000 -0500" channel="rts">
+  <programme start="20261023190000 -0500" stop="20261023210000 -0500" channel="rts">
     <title>Combate</title>
   </programme>
-  <programme start="20261022210000 -0500" stop="20261022220000 -0500" channel="rts">
+  <programme start="20261023210000 -0500" stop="20261023220000 -0500" channel="rts">
     <title>Corazón Abandonado</title>
   </programme>
-  <programme start="20261022220000 -0500" stop="20261022230000 -0500" channel="rts">
+  <programme start="20261023220000 -0500" stop="20261023230000 -0500" channel="rts">
     <title>La Noticia Emisión Estelar</title>
     <desc>Lunes a Viernes 22h00 Antes de terminar el día, le mostraremos un punto de vista diferente que complementará la información que usted necesita. Ponemos un reflejo de la realidad en su pantalla. Síganos en twitter @RTS_LaNoticia</desc>
   </programme>
-  <programme start="20261022230000 -0500" stop="20261022233000 -0500" channel="rts">
+  <programme start="20261023230000 -0500" stop="20261023233000 -0500" channel="rts">
     <title>Copa</title>
   </programme>
-  <programme start="20261022233000 -0500" stop="20261023003000 -0500" channel="rts">
+  <programme start="20261023233000 -0500" stop="20261024003000 -0500" channel="rts">
     <title>Amor Prohibido</title>
   </programme>
   <channel id="fox.ar">
     <display-name>FOX Sports</display-name>
   </channel>
-  <programme start="20261022050000 -0500" stop="20261022070000 -0500" channel="fox.ar">
-    <title>Estudiantes (LP) (Arg) vs. Flamengo (Bra)</title>
-    <sub-title>Semifinal - Ida, Estadio Jorge Luis Hirschi</sub-title>
-    <desc>Vive las emociones de los partidos de la 67º edición de la CONMEBOL Libertadores, el torneo de clubes más importante de América del Sur.</desc>
-  </programme>
-  <programme start="20261022070000 -0500" stop="20261022090000 -0500" channel="fox.ar">
-    <title>Bayern Múnich (Ale) vs. Arsenal (Ing)</title>
-    <sub-title>Fecha 3, Allianz Arena</sub-title>
+  <programme start="20261023030000 -0500" stop="20261023070000 -0500" channel="fox.ar">
+    <title>Inter (Ita) vs. Shakhtar (Ucr)</title>
+    <sub-title>Fecha 3 - Fase de Liga, San Siro/Giuseppe Meazza</sub-title>
     <desc>Vive los partidos de la 72º edición de la UEFA Champions League, la competición internacional de fútbol más prestigiosa a nivel de clubes de Europa.</desc>
   </programme>
-  <programme start="20261022090000 -0500" stop="20261022110000 -0500" channel="fox.ar">
-    <title>Palmeiras (Bra) vs. Fluminense (Bra)</title>
-    <sub-title>Semifinal - Vuelta, Estádio Allianz Parque</sub-title>
-    <desc>Vive las emociones de los partidos de la 67º edición de la CONMEBOL Libertadores, el torneo de clubes más importante de América del Sur.</desc>
-  </programme>
-  <programme start="20261022110000 -0500" stop="20261022130000 -0500" channel="fox.ar">
-    <title>Línea de 3</title>
-    <sub-title>Línea de 3</sub-title>
-    <desc>Dos horas de actualidad deportiva con un tono fresco y dinámico. Conducido por un trío nuevo en pantalla que combina información, opinión y entretenimiento con un formato ágil y lenguaje de streaming.</desc>
-  </programme>
-  <programme start="20261022130000 -0500" stop="20261022150000 -0500" channel="fox.ar">
-    <title>Siga, siga</title>
-    <sub-title>Siga, siga</sub-title>
-    <desc>El pulso del deporte, en formato ranking y entretenimiento. Un programa diario con una estructura ágil y multimedial. Una mirada fresca con rankings icónicos de Fox Sports.</desc>
-  </programme>
-  <programme start="20261022150000 -0500" stop="20261022170000 -0500" channel="fox.ar">
-    <title>La vuelta</title>
-    <sub-title>La vuelta</sub-title>
-    <desc>Propone una mirada descontracturada y entretenida de todo lo que pasa en el mundo del deporte. Un trío con química, humor y timing, que combina información deportiva e invitados destacados.</desc>
-  </programme>
-  <programme start="20261022170000 -0500" stop="20261022190000 -0500" channel="fox.ar">
-    <title>Todo pelota</title>
-    <sub-title>Todo pelota</sub-title>
-    <desc>Actualidad y análisis de las principales competencias del mundo, con foco en la UEFA Champions League y en CONMEBOL Libertadores como solo Fox Sports te lo puede mostrar.</desc>
-  </programme>
-  <programme start="20261022190000 -0500" stop="20261022213000 -0500" channel="fox.ar">
-    <title>Flamengo (Bra) vs. Estudiantes (LP) (Arg)</title>
-    <sub-title>Semifinal - Vuelta, Estádio Maracanã</sub-title>
-    <desc>Vive las emociones de los partidos de la 67º edición de la CONMEBOL Libertadores, el torneo de clubes más importante de América del Sur.</desc>
-  </programme>
-  <programme start="20261022213000 -0500" stop="20261022223000 -0500" channel="fox.ar">
-    <title>Flamengo (Bra) vs. Estudiantes (LP) (Arg)</title>
-    <sub-title>Semifinal - Vuelta, Estádio Maracanã</sub-title>
-    <desc>Vive el post y todo el análisis de los partidos de la 67º edición de la CONMEBOL Libertadores, el torneo de clubes más importante de América del Sur.</desc>
-  </programme>
-  <programme start="20261022223000 -0500" stop="20261022233000 -0500" channel="fox.ar">
+  <programme start="20261023070000 -0500" stop="20261023080000 -0500" channel="fox.ar">
     <title>Telemétrico</title>
     <sub-title>Telemétrico</sub-title>
     <desc>Un formato pensado para la audiencia que quiere entender todo lo relacionado con la Fórmula 1: estrategias de carrera, decisiones de equipo, rendimiento, técnica de los autos, reglas y más.</desc>
   </programme>
-  <programme start="20261022233000 -0500" stop="20261023013000 -0500" channel="fox.ar">
-    <title>Flamengo (Bra) vs. Estudiantes (LP) (Arg)</title>
-    <sub-title>Semifinal - Vuelta, Estádio Maracanã</sub-title>
-    <desc>Vive las emociones de los partidos de la 67º edición de la CONMEBOL Libertadores, el torneo de clubes más importante de América del Sur.</desc>
-  </programme>
-  <programme start="20261023013000 -0500" stop="20261023023000 -0500" channel="fox.ar">
+  <programme start="20261023080000 -0500" stop="20261023090000 -0500" channel="fox.ar">
     <title>Manos arriba</title>
     <sub-title>Manos arriba</sub-title>
     <desc>Toda la actualidad del vóley argentino. Viví partidos, entrevistas, highlights y lo mejor de las competencias de vóley, analizados por una dupla que aporta pasión y profesionalismo.</desc>
   </programme>
-  <programme start="20261023023000 -0500" stop="20261023030000 -0500" channel="fox.ar">
+  <programme start="20261023090000 -0500" stop="20261023110000 -0500" channel="fox.ar">
+    <title>Flamengo (Bra) vs. Estudiantes (LP) (Arg)</title>
+    <sub-title>Semifinal - Vuelta, Estádio Maracanã</sub-title>
+    <desc>Vive las emociones de los partidos de la 67º edición de la CONMEBOL Libertadores, el torneo de clubes más importante de América del Sur.</desc>
+  </programme>
+  <programme start="20261023110000 -0500" stop="20261023120000 -0500" channel="fox.ar">
+    <title>Línea de 3</title>
+    <sub-title>Línea de 3</sub-title>
+    <desc>Dos horas de actualidad deportiva con un tono fresco y dinámico. Conducido por un trío nuevo en pantalla que combina información, opinión y entretenimiento con un formato ágil y lenguaje de streaming.</desc>
+  </programme>
+  <programme start="20261023120000 -0500" stop="20261023123000 -0500" channel="fox.ar">
+    <title>Previo - GP Estados Unidos, Práctica 1</title>
+    <sub-title>Telemétrico</sub-title>
+    <desc>Un formato pensado para la audiencia que quiere entender todo lo relacionado con la Fórmula 1: estrategias de carrera, decisiones de equipo, rendimiento, técnica de los autos, reglas y más.</desc>
+  </programme>
+  <programme start="20261023123000 -0500" stop="20261023133000 -0500" channel="fox.ar">
+    <title>Gran Premio de los Estados Unidos, Práctica 1, Circuito de las Américas</title>
+    <sub-title>Práctica - Fórmula 1</sub-title>
+    <desc>Vive las carreras de práctica de la 77º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc>
+  </programme>
+  <programme start="20261023133000 -0500" stop="20261023140000 -0500" channel="fox.ar">
+    <title>Post - GP Estados Unidos, Práctica 1</title>
+    <sub-title>Telemétrico</sub-title>
+    <desc>Un formato pensado para la audiencia que quiere entender todo lo relacionado con la Fórmula 1: estrategias de carrera, decisiones de equipo, rendimiento, técnica de los autos, reglas y más.</desc>
+  </programme>
+  <programme start="20261023140000 -0500" stop="20261023153000 -0500" channel="fox.ar">
+    <title>Siga, siga</title>
+    <sub-title>Siga, siga</sub-title>
+    <desc>El pulso del deporte, en formato ranking y entretenimiento. Un programa diario con una estructura ágil y multimedial. Una mirada fresca con rankings icónicos de Fox Sports.</desc>
+  </programme>
+  <programme start="20261023153000 -0500" stop="20261023160000 -0500" channel="fox.ar">
+    <title>Previo - GP Estados Unidos, Práctica 2</title>
+    <sub-title>Telemétrico</sub-title>
+    <desc>Un formato pensado para la audiencia que quiere entender todo lo relacionado con la Fórmula 1: estrategias de carrera, decisiones de equipo, rendimiento, técnica de los autos, reglas y más.</desc>
+  </programme>
+  <programme start="20261023160000 -0500" stop="20261023170000 -0500" channel="fox.ar">
+    <title>Gran Premio de los Estados Unidos, Práctica 2, Circuito de las Américas</title>
+    <sub-title>Práctica - Fórmula 1</sub-title>
+    <desc>Vive las carreras de práctica de la 77º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc>
+  </programme>
+  <programme start="20261023170000 -0500" stop="20261023190000 -0500" channel="fox.ar">
+    <title>Todo pelota</title>
+    <sub-title>Todo pelota</sub-title>
+    <desc>Actualidad y análisis de las principales competencias del mundo, con foco en la UEFA Champions League y en CONMEBOL Libertadores como solo Fox Sports te lo puede mostrar.</desc>
+  </programme>
+  <programme start="20261023190000 -0500" stop="20261023201000 -0500" channel="fox.ar">
+    <title>Gran Premio de los Estados Unidos, Práctica 1, Circuito de las Américas</title>
+    <sub-title>Práctica - Fórmula 1</sub-title>
+    <desc>Vive las carreras de práctica de la 77º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc>
+  </programme>
+  <programme start="20261023201000 -0500" stop="20261023212000 -0500" channel="fox.ar">
+    <title>Gran Premio de los Estados Unidos, Práctica 2, Circuito de las Américas</title>
+    <sub-title>Práctica - Fórmula 1</sub-title>
+    <desc>Vive las carreras de práctica de la 77º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc>
+  </programme>
+  <programme start="20261023212000 -0500" stop="20261023233000 -0500" channel="fox.ar">
+    <title>Flamengo (Bra) vs. Estudiantes (LP) (Arg)</title>
+    <sub-title>Semifinal - Vuelta, Estádio Maracanã</sub-title>
+    <desc>Vive las emociones de los partidos de la 67º edición de la CONMEBOL Libertadores, el torneo de clubes más importante de América del Sur.</desc>
+  </programme>
+  <programme start="20261023233000 -0500" stop="20261024003000 -0500" channel="fox.ar">
+    <title>Marketing registrado</title>
+    <sub-title>Marketing registrado</sub-title>
+    <desc>Un espacio que reúne a los protagonistas del deporte y los negocios, con las últimas noticias, entrevistas, lanzamientos y más. Los principales eventos deportivos desde otro lugar.</desc>
+  </programme>
+  <programme start="20261024003000 -0500" stop="20261024010000 -0500" channel="fox.ar">
     <title>Compacto - Supercopa de Portugal</title>
     <sub-title>Compacto - Supercopa de Portugal</sub-title>
     <desc>Disfruta los mejores momentos de esta competencia anual que enfrenta al campeón de la Primeira Liga contra el campeón de la Copa de Portugal.</desc>
   </programme>
-  <programme start="20261023030000 -0500" stop="20261023040000 -0500" channel="fox.ar">
-    <title>Inter (Ita) vs. Shakhtar (Ucr)</title>
-    <sub-title>Fecha 3 - Fase de Liga, San Siro/Giuseppe Meazza</sub-title>
-    <desc>Vive los partidos de la 72º edición de la UEFA Champions League, la competición internacional de fútbol más prestigiosa a nivel de clubes de Europa.</desc>
+  <programme start="20261024010000 -0500" stop="20261024030000 -0500" channel="fox.ar">
+    <title>Palmeiras (Bra) vs. Fluminense (Bra)</title>
+    <sub-title>Semifinal - Vuelta, Estádio Allianz Parque</sub-title>
+    <desc>Vive las emociones de los partidos de la 67º edición de la CONMEBOL Libertadores, el torneo de clubes más importante de América del Sur.</desc>
+  </programme>
+  <programme start="20261024030000 -0500" stop="20261024050000 -0500" channel="fox.ar">
+    <title>Todo pelota</title>
+    <sub-title>Todo pelota</sub-title>
+    <desc>Actualidad y análisis de las principales competencias del mundo, con foco en la UEFA Champions League y en CONMEBOL Libertadores como solo Fox Sports te lo puede mostrar.</desc>
+  </programme>
+  <programme start="20261024050000 -0500" stop="20261024055500 -0500" channel="fox.ar">
+    <title>Telemétrico</title>
+    <sub-title>Telemétrico</sub-title>
+    <desc>Un formato pensado para la audiencia que quiere entender todo lo relacionado con la Fórmula 1: estrategias de carrera, decisiones de equipo, rendimiento, técnica de los autos, reglas y más.</desc>
+  </programme>
+  <programme start="20261024055500 -0500" stop="20261024065500 -0500" channel="fox.ar">
+    <title>Fox Sports</title>
+    <sub-title>Fox Sports</sub-title>
+    <desc>Disfruta la mejor programación de Fox Sports.</desc>
   </programme>
   <channel id="fox2.ar">
     <display-name>FOX Sports 2 </display-name>
   </channel>
-  <programme start="20261022060000 -0500" stop="20261022090000 -0500" channel="fox2.ar">
-    <title>La cocina del fútbol</title>
-    <sub-title>La cocina del fútbol</sub-title>
-    <desc>Carlos Borsa conduce un espacio que combina cocina y recetas con charla sobre el mundo del fútbol. El público podrá disfrutar de entrevistas en profundidad, pero con protagonistas de todos los equipos del fútbol argentino.</desc>
-  </programme>
-  <programme start="20261022090000 -0500" stop="20261022110000 -0500" channel="fox2.ar">
-    <title>Inter (Ita) vs. Shakhtar (Ucr)</title>
-    <sub-title>Fecha 3 - Fase de Liga, San Siro/Giuseppe Meazza</sub-title>
-    <desc>Vive los partidos de la 72º edición de la UEFA Champions League, la competición internacional de fútbol más prestigiosa a nivel de clubes de Europa.</desc>
-  </programme>
-  <programme start="20261022110000 -0500" stop="20261022130000 -0500" channel="fox2.ar">
-    <title>LOSC Lille (Fra) vs. Galatasaray (Tur)</title>
-    <sub-title>Fecha 3, Stade Pierre-Mauroy</sub-title>
-    <desc>Vive los partidos de la 72º edición de la UEFA Champions League, la competición internacional de fútbol más prestigiosa a nivel de clubes de Europa.</desc>
-  </programme>
-  <programme start="20261022130000 -0500" stop="20261022140000 -0500" channel="fox2.ar">
-    <title>Solo Hockey</title>
-    <sub-title>Solo Hockey</sub-title>
-    <desc>Un programa dedicado al hockey con información, análisis, invitados especiales y toda la actualidad de este deporte. Junto a Sofi Coviella, Pablo Gerosa y Luciano Cuevas, los fanáticos podrán informarse al completo sobre la actualidad.</desc>
-  </programme>
-  <programme start="20261022140000 -0500" stop="20261022150000 -0500" channel="fox2.ar">
-    <title>Moving</title>
-    <sub-title>Moving</sub-title>
-    <desc>Magazine dedicado a la industria automotriz, productos, movilidad, nuevas tecnologías, industria global y gaming automotriz.</desc>
-  </programme>
-  <programme start="20261022150000 -0500" stop="20261022160000 -0500" channel="fox2.ar">
-    <title>Los elegidos</title>
-    <sub-title>Los elegidos</sub-title>
-    <desc>Javier Tabares conduce un espacio de entrevistas íntimas con los que hacen grande al deporte.</desc>
-  </programme>
-  <programme start="20261022160000 -0500" stop="20261022163000 -0500" channel="fox2.ar">
-    <title>Co - Piloto</title>
-    <sub-title>Co - Piloto</sub-title>
-    <desc>Juan Pablo Rossotti conduce un programa que acerca nuevas aristas del automovilismo.</desc>
-  </programme>
-  <programme start="20261022163000 -0500" stop="20261022170000 -0500" channel="fox2.ar">
-    <title>Leyendas del rugby</title>
-    <sub-title>Leyendas del rugby</sub-title>
-    <desc>Un programa sobre la historia y la trayectoria de los Pumas, la selección nacional de rugby de Argentina. Los relatos de los jugadores más destacados sobre los orígenes, las Copas Mundiales y los múltiples desafíos que atravesó el equipo.</desc>
-  </programme>
-  <programme start="20261022170000 -0500" stop="20261022180000 -0500" channel="fox2.ar">
-    <title>Rugby Time</title>
-    <sub-title>Rugby Time</sub-title>
-    <desc>Un programa que repasa los contenidos más destacados del ámbito del rugby.</desc>
-  </programme>
-  <programme start="20261022180000 -0500" stop="20261022183000 -0500" channel="fox2.ar">
-    <title>Paradise Extreme</title>
-    <sub-title>Paradise Extreme</sub-title>
-    <desc>Un espacio dedicado a los deportes extremos y lifestyle. El refugio de los amantes del deporte alternativo en todo el planeta. Los mejores eventos, los atletas más arriesgados y todas las novedades,</desc>
-  </programme>
-  <programme start="20261022183000 -0500" stop="20261022190000 -0500" channel="fox2.ar">
-    <title>Rally argentino</title>
-    <sub-title>Rally argentino</sub-title>
-    <desc>La emoción y la adrenalina lideran esta edición en la que se presentarán a los mejores corredores de automóviles, quienes desafiarán los obstáculos de la vía para alcanzar el primer lugar del podio.</desc>
-  </programme>
-  <programme start="20261022190000 -0500" stop="20261022200000 -0500" channel="fox2.ar">
-    <title>Ojo el caño</title>
-    <sub-title>Ojo el caño</sub-title>
-    <desc>Un programa que repasa lo más destacado del fútbol femenino y su actualidad. A través de las charlas y debates que se producen en el espacio, el público podrá informarse al completo sobre competencias, partidos, jugadas y mucho más.</desc>
-  </programme>
-  <programme start="20261022200000 -0500" stop="20261022210000 -0500" channel="fox2.ar">
-    <title>Sale por 3</title>
-    <sub-title>Sale por 3</sub-title>
-    <desc>Entrevistas a figuras del padel, actualidad del circuito profesional y amateur.</desc>
-  </programme>
-  <programme start="20261022210000 -0500" stop="20261022220000 -0500" channel="fox2.ar">
-    <title>Show Turf</title>
-    <sub-title>Show Turf</sub-title>
-    <desc>Mira las jornadas de turf y vive toda la emoción de la competencia.</desc>
-  </programme>
-  <programme start="20261022220000 -0500" stop="20261023000000 -0500" channel="fox2.ar">
-    <title>Lech Poznan Vs. Korona Kielce, Fecha 11</title>
-    <sub-title>Ekstraklasa</sub-title>
-    <desc>Disfruta las emociones de la edición número 93 de la máxima competición del fútbol de Polonia. Participan 18 equipos en un sistema de todos contra todos.</desc>
-  </programme>
-  <programme start="20261023000000 -0500" stop="20261023010000 -0500" channel="fox2.ar">
-    <title>Sale por 3</title>
-    <sub-title>Sale por 3</sub-title>
-    <desc>Entrevistas a figuras del padel, actualidad del circuito profesional y amateur.</desc>
-  </programme>
-  <programme start="20261023010000 -0500" stop="20261023020000 -0500" channel="fox2.ar">
-    <title>Cuerpo técnico</title>
-    <sub-title>Cuerpo técnico</sub-title>
-    <desc>Un espacio para analizar todo lo que pasa en el fútbol. Con información y novedades.</desc>
-  </programme>
-  <programme start="20261023020000 -0500" stop="20261023023000 -0500" channel="fox2.ar">
-    <title>Leyendas del rugby</title>
-    <sub-title>Leyendas del rugby</sub-title>
-    <desc>Un programa sobre la historia y la trayectoria de los Pumas, la selección nacional de rugby de Argentina. Los relatos de los jugadores más destacados sobre los orígenes, las Copas Mundiales y los múltiples desafíos que atravesó el equipo.</desc>
-  </programme>
-  <programme start="20261023023000 -0500" stop="20261023030000 -0500" channel="fox2.ar">
-    <title>Leyendas del rugby</title>
-    <sub-title>Leyendas del rugby</sub-title>
-    <desc>Un programa sobre la historia y la trayectoria de los Pumas, la selección nacional de rugby de Argentina. Los relatos de los jugadores más destacados sobre los orígenes, las Copas Mundiales y los múltiples desafíos que atravesó el equipo.</desc>
-  </programme>
-  <programme start="20261023030000 -0500" stop="20261023040000 -0500" channel="fox2.ar">
-    <title>6 Hours of Fuji, Fecha 6</title>
-    <sub-title>WEC</sub-title>
-    <desc>Vive lo más emocionante del Campeonato Mundial de Resistencia de la FIA edición 2026. Los amantes del deporte podrán disfrutar de una serie de carreras de autos deportivos que combina Hypercars, Le Mans Daytona h y autos LMGT3.</desc>
-  </programme>
-  <programme start="20261023040000 -0500" stop="20261023053000 -0500" channel="fox2.ar">
-    <title>San Francisco (Córdoba), Fecha 6</title>
-    <sub-title>Rally argentino</sub-title>
-    <desc>La emoción y la adrenalina lideran esta edición en la que se presentarán a los mejores corredores de automóviles, quienes desafiarán los obstáculos de la vía para alcanzar el primer lugar del podio.</desc>
-  </programme>
   <programme start="20261023053000 -0500" stop="20261023063000 -0500" channel="fox2.ar">
     <title>La cocina del fútbol</title>
     <sub-title>La cocina del fútbol</sub-title>
     <desc>Carlos Borsa conduce un espacio que combina cocina y recetas con charla sobre el mundo del fútbol. El público podrá disfrutar de entrevistas en profundidad, pero con protagonistas de todos los equipos del fútbol argentino.</desc>
   </programme>
+  <programme start="20261023063000 -0500" stop="20261023073000 -0500" channel="fox2.ar">
+    <title>Sale por 3</title>
+    <sub-title>Sale por 3</sub-title>
+    <desc>Entrevistas a figuras del padel, actualidad del circuito profesional y amateur.</desc>
+  </programme>
+  <programme start="20261023073000 -0500" stop="20261023083000 -0500" channel="fox2.ar">
+    <title>Show Turf</title>
+    <sub-title>Show Turf</sub-title>
+    <desc>Mira las jornadas de turf y vive toda la emoción de la competencia.</desc>
+  </programme>
+  <programme start="20261023083000 -0500" stop="20261023093000 -0500" channel="fox2.ar">
+    <title>Solo Hockey</title>
+    <sub-title>Solo Hockey</sub-title>
+    <desc>Un programa dedicado al hockey con información, análisis, invitados especiales y toda la actualidad de este deporte. Junto a Sofi Coviella, Pablo Gerosa y Luciano Cuevas, los fanáticos podrán informarse al completo sobre la actualidad.</desc>
+  </programme>
+  <programme start="20261023093000 -0500" stop="20261023100000 -0500" channel="fox2.ar">
+    <title>Paradise Extreme</title>
+    <sub-title>Paradise Extreme</sub-title>
+    <desc>Un espacio dedicado a los deportes extremos y lifestyle. El refugio de los amantes del deporte alternativo en todo el planeta. Los mejores eventos, los atletas más arriesgados y todas las novedades,</desc>
+  </programme>
+  <programme start="20261023100000 -0500" stop="20261023110000 -0500" channel="fox2.ar">
+    <title>Ojo el caño</title>
+    <sub-title>Ojo el caño</sub-title>
+    <desc>Un programa que repasa lo más destacado del fútbol femenino y su actualidad. A través de las charlas y debates que se producen en el espacio, el público podrá informarse al completo sobre competencias, partidos, jugadas y mucho más.</desc>
+  </programme>
+  <programme start="20261023110000 -0500" stop="20261023113000 -0500" channel="fox2.ar">
+    <title>La vuelta</title>
+    <sub-title>La vuelta</sub-title>
+    <desc>Propone una mirada descontracturada y entretenida de todo lo que pasa en el mundo del deporte. Un trío con química, humor y timing, que combina información deportiva e invitados destacados.</desc>
+  </programme>
+  <programme start="20261023113000 -0500" stop="20261023133000 -0500" channel="fox2.ar">
+    <title>Bochum vs. Wolfsburgo</title>
+    <sub-title>Fecha 9, Vonovia Ruhrstadion</sub-title>
+    <desc>Vive los partidos de la 53º edición de la Segunda División de Fútbol de Alemania. Un total de 18 equipos participan en la competición que reúne a miles de aficionados en encuentros únicos y apasionantes.</desc>
+  </programme>
+  <programme start="20261023133000 -0500" stop="20261023160000 -0500" channel="fox2.ar">
+    <title>Bolton vs. Middlesbrough</title>
+    <sub-title>Fecha 12, Toughsheet Community Stadium</sub-title>
+    <desc>Vive los partidos de la 25º edición de la segunda división de Inglaterra, la English Football League Championship con un total de 24 equipos que competirán por el trofeo y el ascenso a la Primera división.</desc>
+  </programme>
+  <programme start="20261023160000 -0500" stop="20261023170000 -0500" channel="fox2.ar">
+    <title>Moving</title>
+    <sub-title>Moving</sub-title>
+    <desc>Magazine dedicado a la industria automotriz, productos, movilidad, nuevas tecnologías, industria global y gaming automotriz.</desc>
+  </programme>
+  <programme start="20261023170000 -0500" stop="20261023190000 -0500" channel="fox2.ar">
+    <title>Argentino de Castelar Vs. Banco Provincia de la Plata, Fecha 11</title>
+    <sub-title>Copa Rio Uruguay Seguros</sub-title>
+    <desc>Disfruta de los partidos disputados en el marco de la Copa Rio Uruguay Seguros 2026.</desc>
+  </programme>
+  <programme start="20261023190000 -0500" stop="20261023210000 -0500" channel="fox2.ar">
+    <title>San Lorenzo vs. Boca</title>
+    <sub-title>Fecha 11</sub-title>
+    <desc>Disfruta de los partidos disputados en el marco de la Copa Rio Uruguay Seguros 2026.</desc>
+  </programme>
+  <programme start="20261023210000 -0500" stop="20261023213000 -0500" channel="fox2.ar">
+    <title>Leyendas del rugby</title>
+    <sub-title>Leyendas del rugby</sub-title>
+    <desc>Un programa sobre la historia y la trayectoria de los Pumas, la selección nacional de rugby de Argentina. Los relatos de los jugadores más destacados sobre los orígenes, las Copas Mundiales y los múltiples desafíos que atravesó el equipo.</desc>
+  </programme>
+  <programme start="20261023213000 -0500" stop="20261023223000 -0500" channel="fox2.ar">
+    <title>Los elegidos</title>
+    <sub-title>Los elegidos</sub-title>
+    <desc>Javier Tabares conduce un espacio de entrevistas íntimas con los que hacen grande al deporte.</desc>
+  </programme>
+  <programme start="20261023223000 -0500" stop="20261024003000 -0500" channel="fox2.ar">
+    <title>3DT</title>
+    <sub-title>Documental</sub-title>
+    <desc>Los últimos 24 años de la selección argentina de básquet a través del relato de sus tres entrenadores: Lamas, Magnano y Hernández;quienes, lejos de ser rivales, supieron asistirse persiguiendo un objetivo común: lo mejor para el equipo.</desc>
+  </programme>
+  <programme start="20261024003000 -0500" stop="20261024023000 -0500" channel="fox2.ar">
+    <title>Finales Singles Femenino y Masculino</title>
+    <sub-title>WTT China Smash</sub-title>
+    <desc>Disfruta lo mejor delChina Smash 2026, un torneo de tenis de mesa que forma parte de la Serie WTT 2026. La competencia se llevó a cabo en el Parque Shougang en Beijing y tuvo un premio total de US$2,050,000.</desc>
+  </programme>
+  <programme start="20261024023000 -0500" stop="20261024030000 -0500" channel="fox2.ar">
+    <title>Leyendas del rugby</title>
+    <sub-title>Leyendas del rugby</sub-title>
+    <desc>Un programa sobre la historia y la trayectoria de los Pumas, la selección nacional de rugby de Argentina. Los relatos de los jugadores más destacados sobre los orígenes, las Copas Mundiales y los múltiples desafíos que atravesó el equipo.</desc>
+  </programme>
+  <programme start="20261024030000 -0500" stop="20261024033000 -0500" channel="fox2.ar">
+    <title>Leyendas del rugby</title>
+    <sub-title>Leyendas del rugby</sub-title>
+    <desc>Un programa sobre la historia y la trayectoria de los Pumas, la selección nacional de rugby de Argentina. Los relatos de los jugadores más destacados sobre los orígenes, las Copas Mundiales y los múltiples desafíos que atravesó el equipo.</desc>
+  </programme>
+  <programme start="20261024033000 -0500" stop="20261024040000 -0500" channel="fox2.ar">
+    <title>Rally argentino</title>
+    <sub-title>Rally argentino</sub-title>
+    <desc>La emoción y la adrenalina lideran esta edición en la que se presentarán a los mejores corredores de automóviles, quienes desafiarán los obstáculos de la vía para alcanzar el primer lugar del podio.</desc>
+  </programme>
+  <programme start="20261024040000 -0500" stop="20261024050000 -0500" channel="fox2.ar">
+    <title>Diamante y Valle María, Entre Ríos, Fecha 7</title>
+    <sub-title>Rally argentino</sub-title>
+    <desc>La emoción y la adrenalina lideran esta edición en la que se presentarán a los mejores corredores de automóviles, quienes desafiarán los obstáculos de la vía para alcanzar el primer lugar del podio.</desc>
+  </programme>
+  <programme start="20261024050000 -0500" stop="20261024060000 -0500" channel="fox2.ar">
+    <title>Fox Sports 2</title>
+    <sub-title>Fox Sports 2</sub-title>
+  </programme>
   <channel id="fox3.ar">
     <display-name>FOX Sports 3 </display-name>
   </channel>
-  <programme start="20261022083000 -0500" stop="20261022150000 -0500" channel="fox3.ar">
-    <title>Copa Rotax Sudamericano - Uruguay</title>
-    <sub-title>Copa Rotax Sudamericano - Uruguay</sub-title>
-    <desc>Disfruta lo más destacado del Sudamericano Rotax y que forma parte del MC South América Trophy. Los amantes del deporte podrán disfrutar de la máxima expresión del karting continental y una competencia en la que se forjan las leyendas.</desc>
-  </programme>
-  <programme start="20261022150000 -0500" stop="20261022160000 -0500" channel="fox3.ar">
-    <title>Marketing registrado</title>
-    <sub-title>Marketing registrado</sub-title>
-    <desc>Un espacio que reúne a los protagonistas del deporte y los negocios, con las últimas noticias, entrevistas, lanzamientos y más. Los principales eventos deportivos desde otro lugar.</desc>
-  </programme>
-  <programme start="20261022160000 -0500" stop="20261022170000 -0500" channel="fox3.ar">
+  <programme start="20261023060000 -0500" stop="20261023070000 -0500" channel="fox3.ar">
     <title>Lady fierros</title>
     <sub-title>Lady fierros</sub-title>
     <desc>Un programa que promueve el empoderamiento femenino alrededor del vehículo y la mecánica. En esta clínica de autos es una comunidad que capacita y educa, a mujeres y todos los interesados, en todo lo relacionado a la industria automotriz.</desc>
   </programme>
-  <programme start="20261022170000 -0500" stop="20261022180000 -0500" channel="fox3.ar">
-    <title>Media cancha</title>
-    <sub-title>Media cancha</sub-title>
-    <desc>Un espacio dedicado al básquet, donde compartiremos historias, invitados de lujo, curiosidades, virales y juegos.</desc>
+  <programme start="20261023070000 -0500" stop="20261023073000 -0500" channel="fox3.ar">
+    <title>RB Documentary - YT Dirty Valparaiso 20th Anniversary</title>
+    <sub-title>RB Documentary - YT Dirty Valparaiso 20th Anniversary</sub-title>
+    <desc>Una producción que refleja refleja la importancia de la carrera de descenso urbano en Valparaíso y cómo se transformó en un ícono nacional e internacional para la bicicleta.</desc>
   </programme>
-  <programme start="20261022180000 -0500" stop="20261022190000 -0500" channel="fox3.ar">
+  <programme start="20261023073000 -0500" stop="20261023093000 -0500" channel="fox3.ar">
+    <title>Handball de primera</title>
+    <sub-title>Handball de primera</sub-title>
+    <desc>Un espacio dedicado por completo a la emoción del handball.</desc>
+  </programme>
+  <programme start="20261023093000 -0500" stop="20261023103000 -0500" channel="fox3.ar">
     <title>Circuito ROTAX</title>
     <sub-title>Circuito ROTAX</sub-title>
     <desc>Disfruta de la adrenalina de la carrera del Circuito Rotax.</desc>
   </programme>
-  <programme start="20261022190000 -0500" stop="20261022223000 -0500" channel="fox3.ar">
+  <programme start="20261023103000 -0500" stop="20261023140000 -0500" channel="fox3.ar">
     <title>NFL</title>
     <sub-title>NFL</sub-title>
     <desc>Vive los partidos de la edición 107º de la NFL. El público podrá disfrutar de los encuentros más emocionantes de la mayor liga de fútbol americano profesional de Estados Unidos.</desc>
   </programme>
-  <programme start="20261022223000 -0500" stop="20261022233000 -0500" channel="fox3.ar">
-    <title>Marketing registrado</title>
-    <sub-title>Marketing registrado</sub-title>
-    <desc>Un espacio que reúne a los protagonistas del deporte y los negocios, con las últimas noticias, entrevistas, lanzamientos y más. Los principales eventos deportivos desde otro lugar.</desc>
+  <programme start="20261023140000 -0500" stop="20261023160000 -0500" channel="fox3.ar">
+    <title>Copa Master Touring Car</title>
+    <sub-title>Sim Racer</sub-title>
+    <desc>Simracer League es la principal liga de automovilismo virtual de Latinoamérica. Pilotos y equipos compiten con realismo extremo en tres categorías: Copa YOMEL, Rookies Cup y PROCUP.</desc>
   </programme>
-  <programme start="20261022233000 -0500" stop="20261023050000 -0500" channel="fox3.ar">
-    <title>Copa Rotax Sudamericano - Uruguay</title>
-    <sub-title>Copa Rotax Sudamericano - Uruguay</sub-title>
-    <desc>Disfruta lo más destacado del Sudamericano Rotax y que forma parte del MC South América Trophy. Los amantes del deporte podrán disfrutar de la máxima expresión del karting continental y una competencia en la que se forjan las leyendas.</desc>
-  </programme>
-  <programme start="20261023050000 -0500" stop="20261023060000 -0500" channel="fox3.ar">
+  <programme start="20261023160000 -0500" stop="20261023170000 -0500" channel="fox3.ar">
     <title>Media cancha</title>
     <sub-title>Media cancha</sub-title>
     <desc>Un espacio dedicado al básquet, donde compartiremos historias, invitados de lujo, curiosidades, virales y juegos.</desc>
   </programme>
+  <programme start="20261023170000 -0500" stop="20261023180000 -0500" channel="fox3.ar">
+    <title>Marketing registrado</title>
+    <sub-title>Marketing registrado</sub-title>
+    <desc>Un espacio que reúne a los protagonistas del deporte y los negocios, con las últimas noticias, entrevistas, lanzamientos y más. Los principales eventos deportivos desde otro lugar.</desc>
+  </programme>
+  <programme start="20261023180000 -0500" stop="20261023190000 -0500" channel="fox3.ar">
+    <title>Lady fierros</title>
+    <sub-title>Lady fierros</sub-title>
+    <desc>Un programa que promueve el empoderamiento femenino alrededor del vehículo y la mecánica. En esta clínica de autos es una comunidad que capacita y educa, a mujeres y todos los interesados, en todo lo relacionado a la industria automotriz.</desc>
+  </programme>
+  <programme start="20261023190000 -0500" stop="20261023220000 -0500" channel="fox3.ar">
+    <title>Juego 1</title>
+    <sub-title>Serie Mundial de la MLB</sub-title>
+    <desc>Vive las emociones de los partidos de la Serie Mundial de la MLB, evento final de postemporada donde participan los campeones de las ligas Nacional y Americana.</desc>
+  </programme>
+  <programme start="20261023220000 -0500" stop="20261023230000 -0500" channel="fox3.ar">
+    <title>Marketing registrado</title>
+    <sub-title>Marketing registrado</sub-title>
+    <desc>Un espacio que reúne a los protagonistas del deporte y los negocios, con las últimas noticias, entrevistas, lanzamientos y más. Los principales eventos deportivos desde otro lugar.</desc>
+  </programme>
+  <programme start="20261023230000 -0500" stop="20261024050000 -0500" channel="fox3.ar">
+    <title>Copa Rotax Sudamericano - Uruguay</title>
+    <sub-title>Copa Rotax Sudamericano - Uruguay</sub-title>
+    <desc>Disfruta lo más destacado del Sudamericano Rotax y que forma parte del MC South América Trophy. Los amantes del deporte podrán disfrutar de la máxima expresión del karting continental y una competencia en la que se forjan las leyendas.</desc>
+  </programme>
+  <programme start="20261024050000 -0500" stop="20261024060000 -0500" channel="fox3.ar">
+    <title>Fox Sports 3</title>
+    <sub-title>Fox Sports 3</sub-title>
+  </programme>
   <channel id="tnt_sports.ar">
     <display-name>TNT Sports </display-name>
   </channel>
-  <programme start="20261022043000 -0500" stop="20261022062000 -0500" channel="tnt_sports.ar">
-    <title>Sarmiento vs. Barracas Central</title>
-    <sub-title>Fecha 13 - Grupo B, Estadio Eva Peron</sub-title>
+  <programme start="20261023043000 -0500" stop="20261023062000 -0500" channel="tnt_sports.ar">
+    <title>Dep. Riestra vs. Unión</title>
+    <sub-title>Fecha 13 - Grupo A, Estadio Guillermo Laza</sub-title>
     <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
   </programme>
-  <programme start="20261022062000 -0500" stop="20261022081000 -0500" channel="tnt_sports.ar">
-    <title>Platense vs. Lanús</title>
-    <sub-title>Fecha 13 - Grupo A, Estadio Ciudad de Vicente López</sub-title>
+  <programme start="20261023062000 -0500" stop="20261023081000 -0500" channel="tnt_sports.ar">
+    <title>Newell's vs. Central Córdoba</title>
+    <sub-title>Fecha 13 - Grupo A, Estadio Marcelo Bielsa</sub-title>
     <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
   </programme>
-  <programme start="20261022081000 -0500" stop="20261022100000 -0500" channel="tnt_sports.ar">
-    <title>Estudiantes (LP) vs. San Lorenzo</title>
-    <sub-title>Fecha 13 - Grupo A, Estadio Jorge Luis Hirschi</sub-title>
-    <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
-  </programme>
-  <programme start="20261022100000 -0500" stop="20261022120000 -0500" channel="tnt_sports.ar">
-    <title>Pelota parada</title>
-    <sub-title>Pelota parada</sub-title>
-    <desc>Somos un equipo que sale a la cancha todos los mediodías para acercarte el análisis de cada fecha del fútbol argentino. Paramos la pelota y opinamos con criterio. Con entrevistas, móviles y columnistas.</desc>
-  </programme>
-  <programme start="20261022120000 -0500" stop="20261022124500 -0500" channel="tnt_sports.ar">
-    <title>TNT Data Sports - Primera edición</title>
-    <sub-title>TNT Data Sports - Primera edición</sub-title>
-    <desc>La mejor información del fútbol argentino, las ligas internacionales, todas los disciplinas y las primicias del mundo del deporte.</desc>
-  </programme>
-  <programme start="20261022124500 -0500" stop="20261022150000 -0500" channel="tnt_sports.ar">
-    <title>Unión vs. Barracas Central</title>
-    <sub-title>Fecha 14 - Grupo A</sub-title>
-    <desc>Vive los partidos de la 87º temporada del Torneo Proyección, el campeonato de reserva del fútbol argentino, y el sexto organizado por la Liga Profesional, órgano interno de la AFA.</desc>
-  </programme>
-  <programme start="20261022150000 -0500" stop="20261022170000 -0500" channel="tnt_sports.ar">
-    <title>TNT Fútbol</title>
-    <sub-title>TNT Fútbol</sub-title>
-    <desc>Un espacio ideal para los amantes del fútbol. Análisis detallados, entrevistas exclusivas, debate apasionado y la mejor cobertura de los partidos.</desc>
-  </programme>
-  <programme start="20261022170000 -0500" stop="20261022190000 -0500" channel="tnt_sports.ar">
-    <title>#NoEsParaTanto</title>
-    <sub-title>#NoEsParaTanto</sub-title>
-    <desc>Programa en el que se habla de fútbol y de otras cosas también. Información, móvil en la calle, risas y mucho más.</desc>
-  </programme>
-  <programme start="20261022190000 -0500" stop="20261022193000 -0500" channel="tnt_sports.ar">
-    <title>Talleres</title>
-    <sub-title>Pensiones</sub-title>
-    <desc>Ángela Lerena revela la vida de los jugadores y jugadoras de fútbol en las pensiones, mostrando sus desafíos diarios, convivencia, y las historias detrás del fútbol profesional.</desc>
-  </programme>
-  <programme start="20261022193000 -0500" stop="20261022213000 -0500" channel="tnt_sports.ar">
+  <programme start="20261023081000 -0500" stop="20261023100000 -0500" channel="tnt_sports.ar">
     <title>Belgrano vs. River Plate</title>
     <sub-title>Fecha 13 - Grupo B, Estadio Julio Cesar Villagra</sub-title>
     <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
   </programme>
-  <programme start="20261022213000 -0500" stop="20261022223000 -0500" channel="tnt_sports.ar">
+  <programme start="20261023100000 -0500" stop="20261023120000 -0500" channel="tnt_sports.ar">
+    <title>Pelota parada</title>
+    <sub-title>Pelota parada</sub-title>
+    <desc>Somos un equipo que sale a la cancha todos los mediodías para acercarte el análisis de cada fecha del fútbol argentino. Paramos la pelota y opinamos con criterio. Con entrevistas, móviles y columnistas.</desc>
+  </programme>
+  <programme start="20261023120000 -0500" stop="20261023133000 -0500" channel="tnt_sports.ar">
+    <title>TNT Data Sports - Primera edición</title>
+    <sub-title>TNT Data Sports - Primera edición</sub-title>
+    <desc>La mejor información del fútbol argentino, las ligas internacionales, todas los disciplinas y las primicias del mundo del deporte.</desc>
+  </programme>
+  <programme start="20261023133000 -0500" stop="20261023140000 -0500" channel="tnt_sports.ar">
+    <title>Banfield</title>
+    <sub-title>Pensiones</sub-title>
+    <desc>Ángela Lerena revela la vida de los jugadores y jugadoras de fútbol en las pensiones, mostrando sus desafíos diarios, convivencia, y las historias detrás del fútbol profesional.</desc>
+  </programme>
+  <programme start="20261023140000 -0500" stop="20261023160000 -0500" channel="tnt_sports.ar">
+    <title>TNT Fútbol</title>
+    <sub-title>TNT Fútbol</sub-title>
+    <desc>Un espacio ideal para los amantes del fútbol. Análisis detallados, entrevistas exclusivas, debate apasionado y la mejor cobertura de los partidos.</desc>
+  </programme>
+  <programme start="20261023160000 -0500" stop="20261023161500 -0500" channel="tnt_sports.ar">
+    <title>Match Day: Previa</title>
+    <sub-title>Match Day: Previa</sub-title>
+    <desc>Cada fin de semana TNT Sports pone en pantalla al mejor equipo periodístico. para realizar una cobertura multiplataforma desde los estadios y las concentraciones bajo el formato Matchday, a lo largo de la previa y el post partido.</desc>
+  </programme>
+  <programme start="20261023161500 -0500" stop="20261023183000 -0500" channel="tnt_sports.ar">
+    <title>Gimnasia y Esgrima (M) vs. Platense</title>
+    <sub-title>Fecha 14 - Grupo A, Víctor Antonio Legrotaglie</sub-title>
+    <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
+  </programme>
+  <programme start="20261023183000 -0500" stop="20261023184500 -0500" channel="tnt_sports.ar">
+    <title>Match Day: Post partido</title>
+    <sub-title>Match Day: Post partido</sub-title>
+    <desc>Cada fin de semana TNT Sports pone en pantalla al mejor equipo periodístico. para realizar una cobertura multiplataforma desde los estadios y las concentraciones bajo el formato Matchday, a lo largo de la previa y el post partido.</desc>
+  </programme>
+  <programme start="20261023184500 -0500" stop="20261023190000 -0500" channel="tnt_sports.ar">
+    <title>Match Day: Previa</title>
+    <sub-title>Match Day: Previa</sub-title>
+    <desc>Cada fin de semana TNT Sports pone en pantalla al mejor equipo periodístico. para realizar una cobertura multiplataforma desde los estadios y las concentraciones bajo el formato Matchday, a lo largo de la previa y el post partido.</desc>
+  </programme>
+  <programme start="20261023190000 -0500" stop="20261023211500 -0500" channel="tnt_sports.ar">
+    <title>Tigre vs. Atl. Tucumán</title>
+    <sub-title>Fecha 14 - Grupo B, Estadio José Dellagiovanna</sub-title>
+    <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
+  </programme>
+  <programme start="20261023211500 -0500" stop="20261023220000 -0500" channel="tnt_sports.ar">
     <title>TNT Data Sports - Segunda edición</title>
     <sub-title>TNT Data Sports - Segunda edición</sub-title>
     <desc>El más pormenorizado análisis deportivo, con imágenes al instante de lo que ocurre en el mundo, con el foco puesto en las estadísticas y con datos que permiten comprender los hechos.</desc>
   </programme>
-  <programme start="20261022223000 -0500" stop="20261023002000 -0500" channel="tnt_sports.ar">
-    <title>Estudiantes (LP) vs. San Lorenzo</title>
-    <sub-title>Fecha 13 - Grupo A, Estadio Jorge Luis Hirschi</sub-title>
+  <programme start="20261023220000 -0500" stop="20261023235000 -0500" channel="tnt_sports.ar">
+    <title>Gimnasia y Esgrima (M) vs. Platense</title>
+    <sub-title>Fecha 14 - Grupo A, Víctor Antonio Legrotaglie</sub-title>
     <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
   </programme>
-  <programme start="20261023002000 -0500" stop="20261023021000 -0500" channel="tnt_sports.ar">
-    <title>Def. y Justicia vs. Instituto</title>
-    <sub-title>Fecha 13 - Grupo A, Estadio Norberto "Tito" Tomaghello</sub-title>
+  <programme start="20261023235000 -0500" stop="20261024014000 -0500" channel="tnt_sports.ar">
+    <title>Tigre vs. Atl. Tucumán</title>
+    <sub-title>Fecha 14 - Grupo B, Estadio José Dellagiovanna</sub-title>
     <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
   </programme>
-  <programme start="20261023021000 -0500" stop="20261023040000 -0500" channel="tnt_sports.ar">
-    <title>Estudiantes (RC) vs. Aldosivi</title>
-    <sub-title>Fecha 13 - Grupo B, Estadio Ciudad de Río Cuarto Antonio Candini</sub-title>
+  <programme start="20261024014000 -0500" stop="20261024033000 -0500" channel="tnt_sports.ar">
+    <title>Gimnasia (LP) vs. Sarmiento</title>
+    <sub-title>Fecha 14 - Grupo B, Estadio Juan Carmelo Zerillo</sub-title>
     <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
   </programme>
-  <programme start="20261023040000 -0500" stop="20261023043000 -0500" channel="tnt_sports.ar">
-    <title>Catalina Primo</title>
+  <programme start="20261024033000 -0500" stop="20261024040000 -0500" channel="tnt_sports.ar">
+    <title>FIFA World Cup Unseen</title>
+    <sub-title>FIFA World Cup Unseen</sub-title>
+    <desc>Una mirada inédita al Mundial 2026, con imágenes exclusivas, momentos detrás de escena y todo lo que no se vio durante la competencia.</desc>
+  </programme>
+  <programme start="20261024040000 -0500" stop="20261024043000 -0500" channel="tnt_sports.ar">
+    <title>Agustina Vargas</title>
     <sub-title>TNT Gol fem</sub-title>
     <desc>Ángela conversa con futbolistas de diversos clubes, explorando sus trayectorias, desafíos y sueños. Estas entrevistas ofrecen una visión íntima del recorrido de las jugadoras, desde sus inicios hasta su consolidación en el profesionalismo.</desc>
   </programme>
-  <programme start="20261023043000 -0500" stop="20261023053000 -0500" channel="tnt_sports.ar">
-    <title>Dep. Riestra vs. Unión</title>
-    <sub-title>Fecha 13 - Grupo A, Estadio Guillermo Laza</sub-title>
+  <programme start="20261024043000 -0500" stop="20261024050000 -0500" channel="tnt_sports.ar">
+    <title>Semifinal - Vuelta</title>
+    <sub-title>Magazine CONMEBOL Sudamericana</sub-title>
+    <desc>Mira todos los detalles sobre los partidos de fútbol que son parte de la CONMEBOL Sudamericana 2026.</desc>
+  </programme>
+  <programme start="20261024050000 -0500" stop="20261024060000 -0500" channel="tnt_sports.ar">
+    <title>Racing Club vs. Independiente</title>
+    <sub-title>Fecha 13 - Interzonal, Estadio Juan Domingo Perón</sub-title>
     <desc>Vive los partidos del segundo torneo de la 97º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
   </programme>
   <channel id="dsports1.ec">
