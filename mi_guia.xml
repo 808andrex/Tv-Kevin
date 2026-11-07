@@ -3,166 +3,169 @@
   <channel id="espn.premium">
     <display-name>ESPN Premium</display-name>
   </channel>
-  <programme start="20261107000000 -0500" stop="20261107040000 -0500" channel="espn.premium">
+  <programme start="20261106212000 -0500" stop="20261107010000 -0500" channel="espn.premium">
     <title>ESPN Premium Chile</title>
   </programme>
-  <programme start="20261107040000 -0500" stop="20261107080000 -0500" channel="espn.premium">
+  <programme start="20261107010000 -0500" stop="20261107050000 -0500" channel="espn.premium">
     <title>ESPN Premium Chile</title>
   </programme>
-  <programme start="20261107080000 -0500" stop="20261107120000 -0500" channel="espn.premium">
+  <programme start="20261107050000 -0500" stop="20261107090000 -0500" channel="espn.premium">
     <title>ESPN Premium Chile</title>
   </programme>
-  <programme start="20261107120000 -0500" stop="20261107160000 -0500" channel="espn.premium">
+  <programme start="20261107090000 -0500" stop="20261107130000 -0500" channel="espn.premium">
     <title>ESPN Premium Chile</title>
   </programme>
-  <programme start="20261107160000 -0500" stop="20261107200000 -0500" channel="espn.premium">
+  <programme start="20261107130000 -0500" stop="20261107170000 -0500" channel="espn.premium">
     <title>ESPN Premium Chile</title>
   </programme>
-  <programme start="20261107200000 -0500" stop="20261108000000 -0500" channel="espn.premium">
+  <programme start="20261107170000 -0500" stop="20261107210000 -0500" channel="espn.premium">
+    <title>ESPN Premium Chile</title>
+  </programme>
+  <programme start="20261107210000 -0500" stop="20261108010000 -0500" channel="espn.premium">
     <title>ESPN Premium Chile</title>
   </programme>
   <channel id="teleamazonas">
     <display-name>Teleamazonas</display-name>
   </channel>
-  <programme start="20261107000000 -0500" stop="20261107004500 -0500" channel="teleamazonas">
+  <programme start="20261107000000 -0500" stop="20261107010000 -0500" channel="teleamazonas">
+    <title>Escape Perfecto</title>
+  </programme>
+  <programme start="20261107010000 -0500" stop="20261107014500 -0500" channel="teleamazonas">
     <title>C.S.I. Miami Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.</title>
   </programme>
-  <programme start="20261107004500 -0500" stop="20261107010000 -0500" channel="teleamazonas">
+  <programme start="20261107014500 -0500" stop="20261107020000 -0500" channel="teleamazonas">
     <title>24 horas - Nacional I</title>
   </programme>
-  <programme start="20261107010000 -0500" stop="20261107011500 -0500" channel="teleamazonas">
+  <programme start="20261107020000 -0500" stop="20261107021500 -0500" channel="teleamazonas">
     <title>Entrevistas en 24 horas</title>
   </programme>
-  <programme start="20261107011500 -0500" stop="20261107014500 -0500" channel="teleamazonas">
+  <programme start="20261107021500 -0500" stop="20261107024500 -0500" channel="teleamazonas">
     <title>Yo soy tu madre</title>
   </programme>
-  <programme start="20261107014500 -0500" stop="20261107023000 -0500" channel="teleamazonas">
+  <programme start="20261107024500 -0500" stop="20261107033000 -0500" channel="teleamazonas">
     <title>24 Horas</title>
   </programme>
-  <programme start="20261107023000 -0500" stop="20261107030000 -0500" channel="teleamazonas">
+  <programme start="20261107033000 -0500" stop="20261107040000 -0500" channel="teleamazonas">
     <title>Geeks</title>
   </programme>
-  <programme start="20261107030000 -0500" stop="20261107040000 -0500" channel="teleamazonas">
+  <programme start="20261107040000 -0500" stop="20261107050000 -0500" channel="teleamazonas">
     <title>Tres Patines</title>
   </programme>
-  <programme start="20261107040000 -0500" stop="20261107043000 -0500" channel="teleamazonas">
+  <programme start="20261107050000 -0500" stop="20261107053000 -0500" channel="teleamazonas">
     <title>Game Shakers</title>
   </programme>
-  <programme start="20261107043000 -0500" stop="20261107050000 -0500" channel="teleamazonas">
+  <programme start="20261107053000 -0500" stop="20261107060000 -0500" channel="teleamazonas">
     <title>Victorious Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento.</title>
   </programme>
-  <programme start="20261107050000 -0500" stop="20261107060000 -0500" channel="teleamazonas">
+  <programme start="20261107060000 -0500" stop="20261107070000 -0500" channel="teleamazonas">
     <title>Drake &amp; Josh</title>
   </programme>
-  <programme start="20261107060000 -0500" stop="20261107080000 -0500" channel="teleamazonas">
+  <programme start="20261107070000 -0500" stop="20261107090000 -0500" channel="teleamazonas">
     <title>Tventas</title>
   </programme>
-  <programme start="20261107080000 -0500" stop="20261107090000 -0500" channel="teleamazonas">
+  <programme start="20261107090000 -0500" stop="20261107100000 -0500" channel="teleamazonas">
     <title>El Chavo del Ocho Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</title>
   </programme>
-  <programme start="20261107090000 -0500" stop="20261107093000 -0500" channel="teleamazonas">
+  <programme start="20261107100000 -0500" stop="20261107103000 -0500" channel="teleamazonas">
     <title>Los Simpson Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</title>
   </programme>
-  <programme start="20261107093000 -0500" stop="20261107110000 -0500" channel="teleamazonas">
+  <programme start="20261107103000 -0500" stop="20261107120000 -0500" channel="teleamazonas">
     <title>Largometraje</title>
   </programme>
-  <programme start="20261107110000 -0500" stop="20261107120000 -0500" channel="teleamazonas">
+  <programme start="20261107120000 -0500" stop="20261107130000 -0500" channel="teleamazonas">
     <title>Teleamazonas Noticias Central</title>
   </programme>
-  <programme start="20261107120000 -0500" stop="20261107130000 -0500" channel="teleamazonas">
+  <programme start="20261107130000 -0500" stop="20261107140000 -0500" channel="teleamazonas">
     <title>Los Simpson Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</title>
   </programme>
-  <programme start="20261107130000 -0500" stop="20261107143000 -0500" channel="teleamazonas">
+  <programme start="20261107140000 -0500" stop="20261107153000 -0500" channel="teleamazonas">
     <title>Cine</title>
   </programme>
-  <programme start="20261107143000 -0500" stop="20261107160000 -0500" channel="teleamazonas">
+  <programme start="20261107153000 -0500" stop="20261107170000 -0500" channel="teleamazonas">
     <title>Sábados de cine</title>
   </programme>
-  <programme start="20261107160000 -0500" stop="20261107180000 -0500" channel="teleamazonas">
+  <programme start="20261107170000 -0500" stop="20261107190000 -0500" channel="teleamazonas">
     <title>Sábados de cine</title>
   </programme>
-  <programme start="20261107180000 -0500" stop="20261107190500 -0500" channel="teleamazonas">
+  <programme start="20261107190000 -0500" stop="20261107200500 -0500" channel="teleamazonas">
     <title>Teleamazonas Noticias Estelar</title>
   </programme>
-  <programme start="20261107190500 -0500" stop="20261107200500 -0500" channel="teleamazonas">
+  <programme start="20261107200500 -0500" stop="20261107210500 -0500" channel="teleamazonas">
     <title>De año en año</title>
   </programme>
-  <programme start="20261107200500 -0500" stop="20261107210000 -0500" channel="teleamazonas">
+  <programme start="20261107210500 -0500" stop="20261107220000 -0500" channel="teleamazonas">
     <title>América Vive</title>
   </programme>
-  <programme start="20261107210000 -0500" stop="20261107231500 -0500" channel="teleamazonas">
+  <programme start="20261107220000 -0500" stop="20261108001500 -0500" channel="teleamazonas">
     <title>La gran aventura del cine</title>
-  </programme>
-  <programme start="20261107231500 -0500" stop="20261108001500 -0500" channel="teleamazonas">
-    <title>Aída</title>
   </programme>
   <channel id="gamavision.ec">
     <display-name>Gamavisión</display-name>
   </channel>
-  <programme start="20261106220000 -0500" stop="20261107040000 -0500" channel="gamavision.ec">
+  <programme start="20261106230000 -0500" stop="20261107050000 -0500" channel="gamavision.ec">
     <title>Programación</title>
   </programme>
-  <programme start="20261107040000 -0500" stop="20261107050000 -0500" channel="gamavision.ec">
+  <programme start="20261107050000 -0500" stop="20261107060000 -0500" channel="gamavision.ec">
     <title>Encanto de Japón</title>
   </programme>
-  <programme start="20261107050000 -0500" stop="20261107053000 -0500" channel="gamavision.ec">
+  <programme start="20261107060000 -0500" stop="20261107063000 -0500" channel="gamavision.ec">
     <title>Colombiar</title>
   </programme>
-  <programme start="20261107053000 -0500" stop="20261107060000 -0500" channel="gamavision.ec">
+  <programme start="20261107063000 -0500" stop="20261107070000 -0500" channel="gamavision.ec">
     <title>Fuerza latina</title>
   </programme>
-  <programme start="20261107060000 -0500" stop="20261107083000 -0500" channel="gamavision.ec">
+  <programme start="20261107070000 -0500" stop="20261107093000 -0500" channel="gamavision.ec">
     <title>Todo lo que sé</title>
   </programme>
-  <programme start="20261107083000 -0500" stop="20261107090000 -0500" channel="gamavision.ec">
+  <programme start="20261107093000 -0500" stop="20261107100000 -0500" channel="gamavision.ec">
     <title>Guerreros invencibles</title>
   </programme>
-  <programme start="20261107090000 -0500" stop="20261107110000 -0500" channel="gamavision.ec">
+  <programme start="20261107100000 -0500" stop="20261107120000 -0500" channel="gamavision.ec">
     <title>La cocina de mi abuela</title>
   </programme>
-  <programme start="20261107110000 -0500" stop="20261107120000 -0500" channel="gamavision.ec">
+  <programme start="20261107120000 -0500" stop="20261107130000 -0500" channel="gamavision.ec">
     <title>Con Olor a Región</title>
   </programme>
-  <programme start="20261107120000 -0500" stop="20261107130000 -0500" channel="gamavision.ec">
+  <programme start="20261107130000 -0500" stop="20261107140000 -0500" channel="gamavision.ec">
     <title>A la conquista del sabor</title>
   </programme>
-  <programme start="20261107130000 -0500" stop="20261107140000 -0500" channel="gamavision.ec">
+  <programme start="20261107140000 -0500" stop="20261107150000 -0500" channel="gamavision.ec">
     <title>Espejo retrovisor</title>
   </programme>
-  <programme start="20261107140000 -0500" stop="20261107143000 -0500" channel="gamavision.ec">
+  <programme start="20261107150000 -0500" stop="20261107153000 -0500" channel="gamavision.ec">
     <title>El vuelo de México</title>
   </programme>
-  <programme start="20261107143000 -0500" stop="20261107150000 -0500" channel="gamavision.ec">
+  <programme start="20261107153000 -0500" stop="20261107160000 -0500" channel="gamavision.ec">
     <title>Catadores</title>
   </programme>
-  <programme start="20261107150000 -0500" stop="20261107160000 -0500" channel="gamavision.ec">
+  <programme start="20261107160000 -0500" stop="20261107170000 -0500" channel="gamavision.ec">
     <title>Tv Médica</title>
   </programme>
-  <programme start="20261107160000 -0500" stop="20261107163000 -0500" channel="gamavision.ec">
+  <programme start="20261107170000 -0500" stop="20261107173000 -0500" channel="gamavision.ec">
     <title>Educación financiera</title>
   </programme>
-  <programme start="20261107163000 -0500" stop="20261107170000 -0500" channel="gamavision.ec">
+  <programme start="20261107173000 -0500" stop="20261107180000 -0500" channel="gamavision.ec">
     <title>NCC Salud</title>
   </programme>
-  <programme start="20261107170000 -0500" stop="20261107180000 -0500" channel="gamavision.ec">
+  <programme start="20261107180000 -0500" stop="20261107190000 -0500" channel="gamavision.ec">
     <title>Esta es mi canción</title>
   </programme>
-  <programme start="20261107180000 -0500" stop="20261107190000 -0500" channel="gamavision.ec">
+  <programme start="20261107190000 -0500" stop="20261107200000 -0500" channel="gamavision.ec">
     <title>Puro Teatro</title>
   </programme>
-  <programme start="20261107190000 -0500" stop="20261107200000 -0500" channel="gamavision.ec">
+  <programme start="20261107200000 -0500" stop="20261107210000 -0500" channel="gamavision.ec">
     <title>Cada vida importa</title>
   </programme>
-  <programme start="20261107200000 -0500" stop="20261107203000 -0500" channel="gamavision.ec">
+  <programme start="20261107210000 -0500" stop="20261107213000 -0500" channel="gamavision.ec">
     <title>El reportero</title>
   </programme>
-  <programme start="20261107203000 -0500" stop="20261107213000 -0500" channel="gamavision.ec">
+  <programme start="20261107213000 -0500" stop="20261107223000 -0500" channel="gamavision.ec">
     <title>Memorias</title>
   </programme>
-  <programme start="20261107213000 -0500" stop="20261107220000 -0500" channel="gamavision.ec">
+  <programme start="20261107223000 -0500" stop="20261107230000 -0500" channel="gamavision.ec">
     <title>RPM</title>
   </programme>
-  <programme start="20261107220000 -0500" stop="20261108040000 -0500" channel="gamavision.ec">
+  <programme start="20261107230000 -0500" stop="20261108050000 -0500" channel="gamavision.ec">
     <title>Programación</title>
   </programme>
   <channel id="tvc">
