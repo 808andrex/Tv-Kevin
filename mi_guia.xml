@@ -6,157 +6,163 @@
   <programme start="20261108000000 -0500" stop="20261108010000 -0500" channel="espn.premium">
     <title>ESPN Compact</title>
   </programme>
-  <programme start="20261108010000 -0500" stop="20261108030000 -0500" channel="espn.premium">
+  <programme start="20261108010000 -0500" stop="20261108020000 -0500" channel="espn.premium">
+    <title>ESPN Compact</title>
+  </programme>
+  <programme start="20261108020000 -0500" stop="20261108040000 -0500" channel="espn.premium">
     <title>Hamburgo vs. Borussia Mönchengladbach Fútbol: Bundesliga</title>
   </programme>
-  <programme start="20261108030000 -0500" stop="20261108050000 -0500" channel="espn.premium">
+  <programme start="20261108040000 -0500" stop="20261108060000 -0500" channel="espn.premium">
     <title>Borussia Dortmund vs. Elversberg Fútbol: Bundesliga</title>
   </programme>
-  <programme start="20261108050000 -0500" stop="20261108053000 -0500" channel="espn.premium">
+  <programme start="20261108060000 -0500" stop="20261108063000 -0500" channel="espn.premium">
     <title>El Show de la Copa Libertadores</title>
   </programme>
-  <programme start="20261108053000 -0500" stop="20261108072500 -0500" channel="espn.premium">
+  <programme start="20261108063000 -0500" stop="20261108082500 -0500" channel="espn.premium">
     <title>ESPN Knockout</title>
   </programme>
-  <programme start="20261108072500 -0500" stop="20261108083500 -0500" channel="espn.premium">
+  <programme start="20261108082500 -0500" stop="20261108093500 -0500" channel="espn.premium">
     <title>Automovilismo Fórmula 1</title>
   </programme>
-  <programme start="20261108083500 -0500" stop="20261108095500 -0500" channel="espn.premium">
+  <programme start="20261108093500 -0500" stop="20261108105500 -0500" channel="espn.premium">
     <title>Automovilismo Fórmula 1</title>
   </programme>
-  <programme start="20261108095500 -0500" stop="20261108120000 -0500" channel="espn.premium">
+  <programme start="20261108105500 -0500" stop="20261108130000 -0500" channel="espn.premium">
     <title>Automovilismo Fórmula 1</title>
   </programme>
-  <programme start="20261108120000 -0500" stop="20261108140000 -0500" channel="espn.premium">
+  <programme start="20261108130000 -0500" stop="20261108150000 -0500" channel="espn.premium">
     <title>ESPN Knockout</title>
   </programme>
-  <programme start="20261108140000 -0500" stop="20261108150000 -0500" channel="espn.premium">
+  <programme start="20261108150000 -0500" stop="20261108160000 -0500" channel="espn.premium">
     <title>ESPN Compact</title>
   </programme>
-  <programme start="20261108150000 -0500" stop="20261108170000 -0500" channel="espn.premium">
+  <programme start="20261108160000 -0500" stop="20261108180000 -0500" channel="espn.premium">
     <title>Fútbol Eredivisie</title>
   </programme>
-  <programme start="20261108170000 -0500" stop="20261108173000 -0500" channel="espn.premium">
+  <programme start="20261108180000 -0500" stop="20261108183000 -0500" channel="espn.premium">
     <title>El Show de la Copa Libertadores</title>
   </programme>
-  <programme start="20261108173000 -0500" stop="20261108183000 -0500" channel="espn.premium">
+  <programme start="20261108183000 -0500" stop="20261108193000 -0500" channel="espn.premium">
     <title>UEFA Europa League Highlights</title>
   </programme>
-  <programme start="20261108183000 -0500" stop="20261108190000 -0500" channel="espn.premium">
+  <programme start="20261108193000 -0500" stop="20261108200000 -0500" channel="espn.premium">
     <title>UEFA Champions League Weekly</title>
   </programme>
-  <programme start="20261108190000 -0500" stop="20261108210000 -0500" channel="espn.premium">
+  <programme start="20261108200000 -0500" stop="20261108220000 -0500" channel="espn.premium">
     <title>Automovilismo Fórmula 1</title>
   </programme>
-  <programme start="20261108210000 -0500" stop="20261108220000 -0500" channel="espn.premium">
+  <programme start="20261108220000 -0500" stop="20261108230000 -0500" channel="espn.premium">
     <title>ESPN Compact</title>
   </programme>
-  <programme start="20261108220000 -0500" stop="20261109000000 -0500" channel="espn.premium">
+  <programme start="20261108230000 -0500" stop="20261109010000 -0500" channel="espn.premium">
     <title>Fútbol Eredivisie</title>
   </programme>
   <channel id="teleamazonas">
     <display-name>Teleamazonas</display-name>
   </channel>
-  <programme start="20261107231500 -0500" stop="20261108001500 -0500" channel="teleamazonas">
+  <programme start="20261107220000 -0500" stop="20261108001500 -0500" channel="teleamazonas">
+    <title>La gran aventura del cine</title>
+  </programme>
+  <programme start="20261108001500 -0500" stop="20261108011500 -0500" channel="teleamazonas">
     <title>Aída</title>
   </programme>
-  <programme start="20261108001500 -0500" stop="20261108010000 -0500" channel="teleamazonas">
+  <programme start="20261108011500 -0500" stop="20261108020000 -0500" channel="teleamazonas">
     <title>24 Horas</title>
   </programme>
-  <programme start="20261108010000 -0500" stop="20261108014500 -0500" channel="teleamazonas">
+  <programme start="20261108020000 -0500" stop="20261108024500 -0500" channel="teleamazonas">
     <title>América Vive</title>
   </programme>
-  <programme start="20261108014500 -0500" stop="20261108030000 -0500" channel="teleamazonas">
+  <programme start="20261108024500 -0500" stop="20261108040000 -0500" channel="teleamazonas">
     <title>Geeks</title>
   </programme>
-  <programme start="20261108030000 -0500" stop="20261108033000 -0500" channel="teleamazonas">
+  <programme start="20261108040000 -0500" stop="20261108043000 -0500" channel="teleamazonas">
     <title>Tres Patines</title>
   </programme>
-  <programme start="20261108033000 -0500" stop="20261108040000 -0500" channel="teleamazonas">
+  <programme start="20261108043000 -0500" stop="20261108050000 -0500" channel="teleamazonas">
     <title>La Cocina del Chef</title>
   </programme>
-  <programme start="20261108040000 -0500" stop="20261108045000 -0500" channel="teleamazonas">
+  <programme start="20261108050000 -0500" stop="20261108055000 -0500" channel="teleamazonas">
     <title>Documentales de Animales</title>
   </programme>
-  <programme start="20261108045000 -0500" stop="20261108053000 -0500" channel="teleamazonas">
+  <programme start="20261108055000 -0500" stop="20261108063000 -0500" channel="teleamazonas">
     <title>Misa dominical</title>
   </programme>
-  <programme start="20261108053000 -0500" stop="20261108060000 -0500" channel="teleamazonas">
+  <programme start="20261108063000 -0500" stop="20261108070000 -0500" channel="teleamazonas">
     <title>Sinfonía de Motores</title>
   </programme>
-  <programme start="20261108060000 -0500" stop="20261108080000 -0500" channel="teleamazonas">
+  <programme start="20261108070000 -0500" stop="20261108090000 -0500" channel="teleamazonas">
     <title>Tventas</title>
   </programme>
-  <programme start="20261108080000 -0500" stop="20261108083000 -0500" channel="teleamazonas">
+  <programme start="20261108090000 -0500" stop="20261108093000 -0500" channel="teleamazonas">
     <title>Salud 360</title>
   </programme>
-  <programme start="20261108083000 -0500" stop="20261108103000 -0500" channel="teleamazonas">
+  <programme start="20261108093000 -0500" stop="20261108113000 -0500" channel="teleamazonas">
     <title>Yo soy Betty, la fea</title>
   </programme>
-  <programme start="20261108103000 -0500" stop="20261108110000 -0500" channel="teleamazonas">
+  <programme start="20261108113000 -0500" stop="20261108120000 -0500" channel="teleamazonas">
     <title>El Chavo del Ocho Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</title>
   </programme>
-  <programme start="20261108110000 -0500" stop="20261108120000 -0500" channel="teleamazonas">
+  <programme start="20261108120000 -0500" stop="20261108130000 -0500" channel="teleamazonas">
     <title>Teleamazonas Noticias Central</title>
   </programme>
-  <programme start="20261108120000 -0500" stop="20261108130000 -0500" channel="teleamazonas">
+  <programme start="20261108130000 -0500" stop="20261108140000 -0500" channel="teleamazonas">
     <title>Los Simpson Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</title>
   </programme>
-  <programme start="20261108130000 -0500" stop="20261108143000 -0500" channel="teleamazonas">
+  <programme start="20261108140000 -0500" stop="20261108153000 -0500" channel="teleamazonas">
     <title>Cine</title>
   </programme>
-  <programme start="20261108143000 -0500" stop="20261108160000 -0500" channel="teleamazonas">
+  <programme start="20261108153000 -0500" stop="20261108170000 -0500" channel="teleamazonas">
     <title>Cine del domingo</title>
   </programme>
-  <programme start="20261108160000 -0500" stop="20261108180000 -0500" channel="teleamazonas">
+  <programme start="20261108170000 -0500" stop="20261108190000 -0500" channel="teleamazonas">
     <title>Cine en familia</title>
   </programme>
   <channel id="gamavision.ec">
     <display-name>Gamavisión</display-name>
   </channel>
-  <programme start="20261107220000 -0500" stop="20261108040000 -0500" channel="gamavision.ec">
+  <programme start="20261107230000 -0500" stop="20261108050000 -0500" channel="gamavision.ec">
     <title>Programación</title>
   </programme>
-  <programme start="20261108040000 -0500" stop="20261108070000 -0500" channel="gamavision.ec">
+  <programme start="20261108050000 -0500" stop="20261108080000 -0500" channel="gamavision.ec">
     <title>Encanto de Japón</title>
   </programme>
-  <programme start="20261108070000 -0500" stop="20261108140000 -0500" channel="gamavision.ec">
+  <programme start="20261108080000 -0500" stop="20261108150000 -0500" channel="gamavision.ec">
     <title>Ventas Mundo TV</title>
   </programme>
-  <programme start="20261108140000 -0500" stop="20261108143000 -0500" channel="gamavision.ec">
+  <programme start="20261108150000 -0500" stop="20261108153000 -0500" channel="gamavision.ec">
     <title>Vidas y bebidas</title>
   </programme>
-  <programme start="20261108143000 -0500" stop="20261108150000 -0500" channel="gamavision.ec">
+  <programme start="20261108153000 -0500" stop="20261108160000 -0500" channel="gamavision.ec">
     <title>Todo lo que sé</title>
   </programme>
-  <programme start="20261108150000 -0500" stop="20261108160000 -0500" channel="gamavision.ec">
+  <programme start="20261108160000 -0500" stop="20261108170000 -0500" channel="gamavision.ec">
     <title>Complejamente</title>
   </programme>
-  <programme start="20261108160000 -0500" stop="20261108163000 -0500" channel="gamavision.ec">
+  <programme start="20261108170000 -0500" stop="20261108173000 -0500" channel="gamavision.ec">
     <title>Educación financiera</title>
   </programme>
-  <programme start="20261108163000 -0500" stop="20261108170000 -0500" channel="gamavision.ec">
+  <programme start="20261108173000 -0500" stop="20261108180000 -0500" channel="gamavision.ec">
     <title>Los Protagonistas</title>
   </programme>
-  <programme start="20261108170000 -0500" stop="20261108173000 -0500" channel="gamavision.ec">
+  <programme start="20261108180000 -0500" stop="20261108183000 -0500" channel="gamavision.ec">
     <title>NCC Iberoamérica</title>
   </programme>
-  <programme start="20261108173000 -0500" stop="20261108180000 -0500" channel="gamavision.ec">
+  <programme start="20261108183000 -0500" stop="20261108190000 -0500" channel="gamavision.ec">
     <title>NCC ciencia, tecnología y cultura</title>
   </programme>
-  <programme start="20261108180000 -0500" stop="20261108190000 -0500" channel="gamavision.ec">
+  <programme start="20261108190000 -0500" stop="20261108200000 -0500" channel="gamavision.ec">
     <title>Empieza en casa</title>
   </programme>
-  <programme start="20261108190000 -0500" stop="20261108200000 -0500" channel="gamavision.ec">
+  <programme start="20261108200000 -0500" stop="20261108210000 -0500" channel="gamavision.ec">
     <title>El candidato ideal</title>
   </programme>
-  <programme start="20261108200000 -0500" stop="20261108213000 -0500" channel="gamavision.ec">
+  <programme start="20261108210000 -0500" stop="20261108223000 -0500" channel="gamavision.ec">
     <title>Verdades o mentiras</title>
   </programme>
-  <programme start="20261108213000 -0500" stop="20261108220000 -0500" channel="gamavision.ec">
+  <programme start="20261108223000 -0500" stop="20261108230000 -0500" channel="gamavision.ec">
     <title>Los Protagonistas</title>
   </programme>
-  <programme start="20261108220000 -0500" stop="20261109040000 -0500" channel="gamavision.ec">
+  <programme start="20261108230000 -0500" stop="20261109050000 -0500" channel="gamavision.ec">
     <title>Programación</title>
   </programme>
   <channel id="tvc">
