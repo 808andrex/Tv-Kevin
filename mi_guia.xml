@@ -3,185 +3,182 @@
   <channel id="espn.premium">
     <display-name>ESPN Premium</display-name>
   </channel>
-  <programme start="20261109230000 -0500" stop="20261110010000 -0500" channel="espn.premium">
-    <title>Mainz vs. Bayern de Múnich Fútbol: Bundesliga</title>
-  </programme>
-  <programme start="20261110010000 -0500" stop="20261110030000 -0500" channel="espn.premium">
-    <title>Borussia Dortmund vs. Elversberg Fútbol: Bundesliga</title>
-  </programme>
-  <programme start="20261110030000 -0500" stop="20261110050000 -0500" channel="espn.premium">
-    <title>Twente vs. Ajax Fútbol Eredivisie</title>
-  </programme>
-  <programme start="20261110050000 -0500" stop="20261110070000 -0500" channel="espn.premium">
-    <title>Mainz vs. Bayern de Múnich Fútbol: Bundesliga</title>
-  </programme>
-  <programme start="20261110070000 -0500" stop="20261110090000 -0500" channel="espn.premium">
-    <title>Borussia Dortmund vs. Elversberg Fútbol: Bundesliga</title>
-  </programme>
-  <programme start="20261110090000 -0500" stop="20261110110000 -0500" channel="espn.premium">
-    <title>ESPN Knockout</title>
-  </programme>
-  <programme start="20261110110000 -0500" stop="20261110120000 -0500" channel="espn.premium">
-    <title>ESPN Compact</title>
-  </programme>
-  <programme start="20261110120000 -0500" stop="20261110140000 -0500" channel="espn.premium">
+  <programme start="20261110000000 -0500" stop="20261110020000 -0500" channel="espn.premium">
     <title>Automovilismo Fórmula 1</title>
   </programme>
-  <programme start="20261110140000 -0500" stop="20261110160000 -0500" channel="espn.premium">
+  <programme start="20261110020000 -0500" stop="20261110040000 -0500" channel="espn.premium">
     <title>Mainz vs. Bayern de Múnich Fútbol: Bundesliga</title>
   </programme>
-  <programme start="20261110160000 -0500" stop="20261110180000 -0500" channel="espn.premium">
+  <programme start="20261110040000 -0500" stop="20261110060000 -0500" channel="espn.premium">
+    <title>Borussia Dortmund vs. Elversberg Fútbol: Bundesliga</title>
+  </programme>
+  <programme start="20261110060000 -0500" stop="20261110080000 -0500" channel="espn.premium">
+    <title>Twente vs. Ajax Fútbol Eredivisie</title>
+  </programme>
+  <programme start="20261110080000 -0500" stop="20261110100000 -0500" channel="espn.premium">
+    <title>Mainz vs. Bayern de Múnich Fútbol: Bundesliga</title>
+  </programme>
+  <programme start="20261110100000 -0500" stop="20261110120000 -0500" channel="espn.premium">
+    <title>Borussia Dortmund vs. Elversberg Fútbol: Bundesliga</title>
+  </programme>
+  <programme start="20261110120000 -0500" stop="20261110140000 -0500" channel="espn.premium">
+    <title>ESPN Knockout</title>
+  </programme>
+  <programme start="20261110140000 -0500" stop="20261110150000 -0500" channel="espn.premium">
+    <title>ESPN Compact</title>
+  </programme>
+  <programme start="20261110150000 -0500" stop="20261110170000 -0500" channel="espn.premium">
+    <title>Automovilismo Fórmula 1</title>
+  </programme>
+  <programme start="20261110170000 -0500" stop="20261110190000 -0500" channel="espn.premium">
+    <title>Mainz vs. Bayern de Múnich Fútbol: Bundesliga</title>
+  </programme>
+  <programme start="20261110190000 -0500" stop="20261110210000 -0500" channel="espn.premium">
     <title>Boca Juniors vs. Vasco da Gama Fútbol Conmebol Copa Sudamericana</title>
-  </programme>
-  <programme start="20261110180000 -0500" stop="20261110200000 -0500" channel="espn.premium">
-    <title>Vasco da Gama vs. Boca Juniors Fútbol Conmebol Copa Sudamericana</title>
-  </programme>
-  <programme start="20261110200000 -0500" stop="20261110210000 -0500" channel="espn.premium">
-    <title>NFL Semanal</title>
   </programme>
   <programme start="20261110210000 -0500" stop="20261110230000 -0500" channel="espn.premium">
-    <title>Campeonato mundial de MotoGP</title>
+    <title>Vasco da Gama vs. Boca Juniors Fútbol Conmebol Copa Sudamericana</title>
   </programme>
-  <programme start="20261110230000 -0500" stop="20261111010000 -0500" channel="espn.premium">
-    <title>Boca Juniors vs. Vasco da Gama Fútbol Conmebol Copa Sudamericana</title>
+  <programme start="20261110230000 -0500" stop="20261111000000 -0500" channel="espn.premium">
+    <title>NFL Semanal</title>
   </programme>
   <channel id="teleamazonas">
     <display-name>Teleamazonas</display-name>
   </channel>
-  <programme start="20261109234500 -0500" stop="20261110001500 -0500" channel="teleamazonas">
-    <title>Entrevistas en 24 horas</title>
-  </programme>
-  <programme start="20261110001500 -0500" stop="20261110004500 -0500" channel="teleamazonas">
-    <title>Yo soy tu madre</title>
-  </programme>
-  <programme start="20261110004500 -0500" stop="20261110010000 -0500" channel="teleamazonas">
-    <title>La Familia Peluche</title>
-  </programme>
-  <programme start="20261110010000 -0500" stop="20261110011500 -0500" channel="teleamazonas">
-    <title>Derbez en cuando</title>
-  </programme>
-  <programme start="20261110011500 -0500" stop="20261110014500 -0500" channel="teleamazonas">
-    <title>El Chapulín Colorado Una serie creada por Roberto Gómez Bolaños que relata las aventuras de un Superhéroe, reconocido por su Chipote Chillón y sus divertidas frases.</title>
-  </programme>
-  <programme start="20261110014500 -0500" stop="20261110020000 -0500" channel="teleamazonas">
-    <title>El Chavo del Ocho Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</title>
-  </programme>
-  <programme start="20261110020000 -0500" stop="20261110024500 -0500" channel="teleamazonas">
-    <title>24 horas - 3ra emisión</title>
-  </programme>
-  <programme start="20261110024500 -0500" stop="20261110063000 -0500" channel="teleamazonas">
-    <title>Teleamazonas Noticias Matinal</title>
-  </programme>
-  <programme start="20261110063000 -0500" stop="20261110090000 -0500" channel="teleamazonas">
-    <title>EsTAmañana</title>
-  </programme>
-  <programme start="20261110090000 -0500" stop="20261110100000 -0500" channel="teleamazonas">
-    <title>Como dice el dicho</title>
-  </programme>
-  <programme start="20261110100000 -0500" stop="20261110120000 -0500" channel="teleamazonas">
-    <title>Teleamazonas Noticias Central</title>
-  </programme>
-  <programme start="20261110120000 -0500" stop="20261110130000 -0500" channel="teleamazonas">
-    <title>Deporte Total</title>
-  </programme>
-  <programme start="20261110130000 -0500" stop="20261110143000 -0500" channel="teleamazonas">
-    <title>Mi corazón es tuyo</title>
-  </programme>
-  <programme start="20261110143000 -0500" stop="20261110150000 -0500" channel="teleamazonas">
-    <title>El Chapulín Colorado Una serie creada por Roberto Gómez Bolaños que relata las aventuras de un Superhéroe, reconocido por su Chipote Chillón y sus divertidas frases.</title>
-  </programme>
-  <programme start="20261110150000 -0500" stop="20261110160000 -0500" channel="teleamazonas">
-    <title>El Chavo del Ocho Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</title>
-  </programme>
-  <programme start="20261110160000 -0500" stop="20261110170000 -0500" channel="teleamazonas">
-    <title>100 Ecuatorianos dicen</title>
-  </programme>
-  <programme start="20261110170000 -0500" stop="20261110180000 -0500" channel="teleamazonas">
-    <title>Teleamazonas Noticias Estelar</title>
-  </programme>
-  <programme start="20261110180000 -0500" stop="20261110200000 -0500" channel="teleamazonas">
-    <title>Escape Perfecto</title>
-  </programme>
-  <programme start="20261110200000 -0500" stop="20261110203000 -0500" channel="teleamazonas">
-    <title>Perdidos de Amor</title>
-  </programme>
-  <programme start="20261110203000 -0500" stop="20261110210000 -0500" channel="teleamazonas">
-    <title>El After</title>
-  </programme>
-  <programme start="20261110210000 -0500" stop="20261110220000 -0500" channel="teleamazonas">
+  <programme start="20261110000000 -0500" stop="20261110004500 -0500" channel="teleamazonas">
     <title>Pasión y Poder</title>
   </programme>
-  <programme start="20261110220000 -0500" stop="20261110231500 -0500" channel="teleamazonas">
+  <programme start="20261110004500 -0500" stop="20261110014500 -0500" channel="teleamazonas">
+    <title>De lunes a lunes</title>
+  </programme>
+  <programme start="20261110014500 -0500" stop="20261110023000 -0500" channel="teleamazonas">
+    <title>C.S.I. Investigadores buscan las verdades de los asesinatos en la ciudad de Las Vegas demostrando a los criminales que salirse con la suya es mucho más difícil.</title>
+  </programme>
+  <programme start="20261110023000 -0500" stop="20261110024500 -0500" channel="teleamazonas">
+    <title>24 horas - Nacional I</title>
+  </programme>
+  <programme start="20261110024500 -0500" stop="20261110031500 -0500" channel="teleamazonas">
+    <title>Entrevistas en 24 horas</title>
+  </programme>
+  <programme start="20261110031500 -0500" stop="20261110034500 -0500" channel="teleamazonas">
+    <title>Yo soy tu madre</title>
+  </programme>
+  <programme start="20261110034500 -0500" stop="20261110040000 -0500" channel="teleamazonas">
+    <title>La Familia Peluche</title>
+  </programme>
+  <programme start="20261110040000 -0500" stop="20261110041500 -0500" channel="teleamazonas">
+    <title>Derbez en cuando</title>
+  </programme>
+  <programme start="20261110041500 -0500" stop="20261110044500 -0500" channel="teleamazonas">
+    <title>El Chapulín Colorado Una serie creada por Roberto Gómez Bolaños que relata las aventuras de un Superhéroe, reconocido por su Chipote Chillón y sus divertidas frases.</title>
+  </programme>
+  <programme start="20261110044500 -0500" stop="20261110050000 -0500" channel="teleamazonas">
+    <title>El Chavo del Ocho Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</title>
+  </programme>
+  <programme start="20261110050000 -0500" stop="20261110054500 -0500" channel="teleamazonas">
+    <title>24 horas - 3ra emisión</title>
+  </programme>
+  <programme start="20261110054500 -0500" stop="20261110093000 -0500" channel="teleamazonas">
+    <title>Teleamazonas Noticias Matinal</title>
+  </programme>
+  <programme start="20261110093000 -0500" stop="20261110120000 -0500" channel="teleamazonas">
+    <title>EsTAmañana</title>
+  </programme>
+  <programme start="20261110120000 -0500" stop="20261110130000 -0500" channel="teleamazonas">
+    <title>Como dice el dicho</title>
+  </programme>
+  <programme start="20261110130000 -0500" stop="20261110150000 -0500" channel="teleamazonas">
+    <title>Teleamazonas Noticias Central</title>
+  </programme>
+  <programme start="20261110150000 -0500" stop="20261110160000 -0500" channel="teleamazonas">
+    <title>Deporte Total</title>
+  </programme>
+  <programme start="20261110160000 -0500" stop="20261110173000 -0500" channel="teleamazonas">
+    <title>Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20261110173000 -0500" stop="20261110180000 -0500" channel="teleamazonas">
+    <title>El Chapulín Colorado Una serie creada por Roberto Gómez Bolaños que relata las aventuras de un Superhéroe, reconocido por su Chipote Chillón y sus divertidas frases.</title>
+  </programme>
+  <programme start="20261110180000 -0500" stop="20261110190000 -0500" channel="teleamazonas">
+    <title>El Chavo del Ocho Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</title>
+  </programme>
+  <programme start="20261110190000 -0500" stop="20261110200000 -0500" channel="teleamazonas">
+    <title>100 Ecuatorianos dicen</title>
+  </programme>
+  <programme start="20261110200000 -0500" stop="20261110210000 -0500" channel="teleamazonas">
+    <title>Teleamazonas Noticias Estelar</title>
+  </programme>
+  <programme start="20261110210000 -0500" stop="20261110230000 -0500" channel="teleamazonas">
     <title>Escape Perfecto</title>
   </programme>
-  <programme start="20261110231500 -0500" stop="20261111000000 -0500" channel="teleamazonas">
-    <title>C.S.I. Investigadores buscan las verdades de los asesinatos en la ciudad de Las Vegas demostrando a los criminales que salirse con la suya es mucho más difícil.</title>
+  <programme start="20261110230000 -0500" stop="20261110233000 -0500" channel="teleamazonas">
+    <title>Perdidos de Amor</title>
+  </programme>
+  <programme start="20261110233000 -0500" stop="20261111000000 -0500" channel="teleamazonas">
+    <title>El After</title>
   </programme>
   <channel id="gamavision.ec">
     <display-name>Gamavisión</display-name>
   </channel>
-  <programme start="20261109210000 -0500" stop="20261110030000 -0500" channel="gamavision.ec">
+  <programme start="20261110000000 -0500" stop="20261110060000 -0500" channel="gamavision.ec">
     <title>Programación</title>
   </programme>
-  <programme start="20261110030000 -0500" stop="20261110060000 -0500" channel="gamavision.ec">
+  <programme start="20261110060000 -0500" stop="20261110090000 -0500" channel="gamavision.ec">
     <title>Gamavisión - La revista</title>
   </programme>
-  <programme start="20261110060000 -0500" stop="20261110070000 -0500" channel="gamavision.ec">
+  <programme start="20261110090000 -0500" stop="20261110100000 -0500" channel="gamavision.ec">
     <title>Ventas Mundo TV</title>
   </programme>
-  <programme start="20261110070000 -0500" stop="20261110073000 -0500" channel="gamavision.ec">
+  <programme start="20261110100000 -0500" stop="20261110103000 -0500" channel="gamavision.ec">
     <title>Vidas y bebidas</title>
   </programme>
-  <programme start="20261110073000 -0500" stop="20261110080000 -0500" channel="gamavision.ec">
+  <programme start="20261110103000 -0500" stop="20261110110000 -0500" channel="gamavision.ec">
     <title>Con Olor a Región</title>
   </programme>
-  <programme start="20261110080000 -0500" stop="20261110090000 -0500" channel="gamavision.ec">
+  <programme start="20261110110000 -0500" stop="20261110120000 -0500" channel="gamavision.ec">
     <title>Complejamente</title>
   </programme>
-  <programme start="20261110090000 -0500" stop="20261110093000 -0500" channel="gamavision.ec">
+  <programme start="20261110120000 -0500" stop="20261110123000 -0500" channel="gamavision.ec">
     <title>Todo lo que sé</title>
   </programme>
-  <programme start="20261110093000 -0500" stop="20261110100000 -0500" channel="gamavision.ec">
+  <programme start="20261110123000 -0500" stop="20261110130000 -0500" channel="gamavision.ec">
     <title>Gamanoticias - Emisión central</title>
   </programme>
-  <programme start="20261110100000 -0500" stop="20261110103000 -0500" channel="gamavision.ec">
+  <programme start="20261110130000 -0500" stop="20261110133000 -0500" channel="gamavision.ec">
     <title>Los Protagonistas</title>
   </programme>
-  <programme start="20261110103000 -0500" stop="20261110110000 -0500" channel="gamavision.ec">
+  <programme start="20261110133000 -0500" stop="20261110140000 -0500" channel="gamavision.ec">
     <title>El vuelo de México</title>
   </programme>
-  <programme start="20261110110000 -0500" stop="20261110120000 -0500" channel="gamavision.ec">
+  <programme start="20261110140000 -0500" stop="20261110150000 -0500" channel="gamavision.ec">
     <title>Tv Médica</title>
   </programme>
-  <programme start="20261110120000 -0500" stop="20261110123000 -0500" channel="gamavision.ec">
+  <programme start="20261110150000 -0500" stop="20261110153000 -0500" channel="gamavision.ec">
     <title>Guardianes de la Salud</title>
   </programme>
-  <programme start="20261110123000 -0500" stop="20261110133000 -0500" channel="gamavision.ec">
+  <programme start="20261110153000 -0500" stop="20261110163000 -0500" channel="gamavision.ec">
     <title>Puro Teatro</title>
   </programme>
-  <programme start="20261110133000 -0500" stop="20261110163000 -0500" channel="gamavision.ec">
+  <programme start="20261110163000 -0500" stop="20261110193000 -0500" channel="gamavision.ec">
     <title>Gamavisión - La revista</title>
   </programme>
-  <programme start="20261110163000 -0500" stop="20261110173000 -0500" channel="gamavision.ec">
+  <programme start="20261110193000 -0500" stop="20261110203000 -0500" channel="gamavision.ec">
     <title>Planeta futbol</title>
   </programme>
-  <programme start="20261110173000 -0500" stop="20261110183000 -0500" channel="gamavision.ec">
+  <programme start="20261110203000 -0500" stop="20261110213000 -0500" channel="gamavision.ec">
     <title>Virgencitas Ecuador</title>
   </programme>
-  <programme start="20261110183000 -0500" stop="20261110190000 -0500" channel="gamavision.ec">
+  <programme start="20261110213000 -0500" stop="20261110220000 -0500" channel="gamavision.ec">
     <title>Encuentro con la historia</title>
   </programme>
-  <programme start="20261110190000 -0500" stop="20261110200000 -0500" channel="gamavision.ec">
+  <programme start="20261110220000 -0500" stop="20261110230000 -0500" channel="gamavision.ec">
     <title>Verdades o mentiras</title>
   </programme>
-  <programme start="20261110200000 -0500" stop="20261110203000 -0500" channel="gamavision.ec">
+  <programme start="20261110230000 -0500" stop="20261110233000 -0500" channel="gamavision.ec">
     <title>Los Protagonistas</title>
   </programme>
-  <programme start="20261110203000 -0500" stop="20261110210000 -0500" channel="gamavision.ec">
+  <programme start="20261110233000 -0500" stop="20261111000000 -0500" channel="gamavision.ec">
     <title>Encanto de Japón</title>
-  </programme>
-  <programme start="20261110210000 -0500" stop="20261111030000 -0500" channel="gamavision.ec">
-    <title>Programación</title>
   </programme>
   <channel id="tvc">
     <display-name>TVC</display-name>
